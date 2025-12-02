@@ -10,7 +10,7 @@ This project was built to demonstrate Power BI skills in:
 - Business insights
 ---
 ## 📥 Data Source
-A synthetic dataset (`application_processing_dataset_v4.csv`) was created to simulate real-world application workflows with:
+A synthetic dataset (`to be added`) was created to simulate real-world application workflows with:
 - Quarterly fee rules
 - Multiple application types
 - Payment behaviours (Paid, Pending, Unpaid)
@@ -22,7 +22,7 @@ Loaded the dataset (CSV format) directly into Power BI and began transformation 
 ##  Power Query Data Cleaning
 
 ###  Removed Duplicates  
-Removed intentionally injected duplicate rows to simulate real-world data cleaning.
+Removed intentionally added duplicate rows to simulate realistic data cleaning.
 
 ###  Standardised Data Types  
 Ensured all key columns use appropriate types:
@@ -48,6 +48,29 @@ Created additional columns to support monthly and yearly trend analysis:
 - `SubmissionYear`
 - `PaymentYear`
 ---
+### Fixed Month Sorting Issue  
+Power BI raised an error when sorting month names due to multiple SubmissionDate values per month.
+Created numerical month columns:
+- `SubmissionMonthNumber`
+- `PaymentMonthNumber`
+Used Sort by Column to sort month names chronologically.
+This ensures accurate and professional month-over-month trend visuals.
+
+### DAX Measures Used 
+Total Revenue 
+- Dax ' Total Rev := SUM('GOC Draft 1'[PaymentAmount])'
+Payment Completion Rate
+- Dax ' Payment Completion Rate :=
+DIVIDE(
+    COUNTROWS(FILTER('GOC Draft 1', 'GOC Draft 1'[PaymentStatus] = "Paid")),
+    COUNTROWS('GOC Draft 1') ) '
+
+Additional measures such as Average Processing Time and Application Count will be added as the dashboard develops.
+
+These DAX measures allow for dynamic KPI calculations and highlight the ability to convert raw data into meaningful insights.
+
+
+
 ## Power BI Pages (To Be Added)
 This dashboard contains multiple report pages:
 
