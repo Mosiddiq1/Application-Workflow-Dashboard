@@ -69,8 +69,6 @@ Additional measures such as Average Processing Time and Application Count will b
 
 These DAX measures allow for dynamic KPI calculations and highlight the ability to convert raw data into meaningful insights.
 
-
-
 ## Power BI Pages (To Be Added)
 This dashboard contains multiple report pages:
 
@@ -81,6 +79,23 @@ This dashboard contains multiple report pages:
 5. **Trend Analysis**
 (Screenshots will be added after dashboard completion.)
 ---
+## Application Breakdown Page
+
+This page explores application behaviour across different categories and reveals operational patterns that are not visible in the KPI view.
+- Key Visuals Included
+        Applications by ApplicationType:
+        Shows distribution across Student, Fully Qualified, Body Corporate, and Restoration applications.
+        Highlights which workflows contribute most to overall volume.
+Average DaysToProcess by ApplicationType:
+  Identifies which application categories take longer to process, helping reveal operational bottlenecks.
+    
+ApplicationType by ApplicantType (UK vs International):
+Compares the profile of applications across regions.
+Useful for understanding differences in behaviour between UK and international applicants.
+
+ApplicationType Slicer:
+    - Allows users to filter the entire page by application category for deeper, interactive exploration.
+
 ## Key DAX Measures (To Be Added)
 - Payment Completion Rate  
 - Total Revenue  
