@@ -95,15 +95,44 @@ Useful for understanding differences in behaviour between UK and international a
 
 ApplicationType Slicer:
     - Allows users to filter the entire page by application category for deeper, interactive exploration.
+    
+## Key DAX Measures
 
-## Key DAX Measures (To Be Added)
-- Payment Completion Rate  
-- Total Revenue  
-- Average DaysToProcess  
-- Applications Count  
+Several DAX measures were created to support KPI reporting and financial analysis, including:
+
+- **Total Collected Revenue (Paid-only):** Ensures revenue reflects completed payments only.
+- **Payment Completion Rate:** Measures the proportion of applications with successful payments.
+- **Outstanding Count:** Identifies applications requiring follow-up due to Pending or Unpaid status.
+- **Average Days to Process:** Highlights processing efficiency across applicant types.
+
+These measures enable reusable, consistent logic across all report pages.
+
+## Payment Insights
+
+This page focuses on understanding payment behaviour, revenue collection, and outstanding applications.
+
+Key elements include:
+- **Collected Revenue (Paid-only):** Revenue calculations explicitly exclude Pending and Unpaid records to reflect actual cash received.
+- **Outstanding Count:** Counts applications with Pending or Unpaid statuses to highlight financial backlog.
+- **Payment Status Breakdown:** Visualises the proportion of Paid vs Outstanding applications.
+- **Revenue by Application Type:** Identifies which application categories contribute most to total revenue.
+- **Year-over-Year Revenue Trend (2024 vs 2025):**  
+  A multi-line time series compares monthly collected revenue across years, highlighting seasonal patterns and periods of delayed payment activity.
+
+This analysis supports operational decision-making by distinguishing between application volume and realised revenue.
+
 ---
-## Insights Summary (To Be Added)
-A brief summary of findings will be added after dashboard construction.
+
+## Insights Summary
+
+Key insights from the dashboard include:
+- A clear gap between application volume and collected revenue, emphasising the importance of payment completion tracking.
+- Certain application types contribute disproportionately to total revenue despite lower volumes.
+- Outstanding applications remain a measurable operational risk, particularly during specific periods.
+- Revenue trends show seasonal variation and differences in payment timing between 2024 and 2025.
+
+This project demonstrates the ability to translate raw operational data into actionable business insights using Power BI.
+
 ---
 ## Repository Structure
 ---
