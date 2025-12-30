@@ -106,14 +106,17 @@ This project demonstrates the ability to convert raw operational data into actio
 ## 📁 Repository Structure
 
 - `/data` – Synthetic dataset (CSV)  
-- `/powerbi` –![image alt](https://github.com/Mosiddiq1/Application-Workflow-Dashboard/blob/33b5b6fee0bb94a04dd05f8146e405b630175c36/KPI%20Overview%20.png)
+- `/powerbi`- Power BI report file
+- `README.md` – Project documentation
+
+## 🖥️ Dashboard Preview
+- Below are selected screenshots from the Power BI report highlighting key pages and insights. This is without the filters added as these are still images.
+  
+- ![image alt](https://github.com/Mosiddiq1/Application-Workflow-Dashboard/blob/33b5b6fee0bb94a04dd05f8146e405b630175c36/KPI%20Overview%20.png)
 
 - ![image alt](https://github.com/Mosiddiq1/Application-Workflow-Dashboard/blob/54048d525da7e47c2265712a769a3470d2e80358/Application%20Breakdown%20.png)
 
 - ![image alt](https://github.com/Mosiddiq1/Application-Workflow-Dashboard/blob/a5e53d2a4e9d8aab42c5f5400955e5fd560153ec/Payment%20Insights%20.png)
-
-  
-- `README.md` – Project documentation  
 
 ---
 
