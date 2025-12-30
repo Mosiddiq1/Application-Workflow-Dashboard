@@ -110,8 +110,9 @@ This project demonstrates the ability to convert raw operational data into actio
 
 - ![image alt](https://github.com/Mosiddiq1/Application-Workflow-Dashboard/blob/54048d525da7e47c2265712a769a3470d2e80358/Application%20Breakdown%20.png)
 
-- 
-- 
+- ![image alt](https://github.com/Mosiddiq1/Application-Workflow-Dashboard/blob/a5e53d2a4e9d8aab42c5f5400955e5fd560153ec/Payment%20Insights%20.png)
+
+  
 - `README.md` – Project documentation  
 
 ---
