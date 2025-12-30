@@ -1,0 +1,826 @@
+ApplicationID,SubmissionDate,ApplicantType,Country,Age,ApplicationType,DocumentStatus,PaymentStatus,PaymentAmount,PaymentMethod,PaymentDate,PaymentQuarter,ProcessingStage,DaysToProcess,DataCheckStatus,MissingInfoFlag,AssignedTeam
+APP-100000,2024-09-24 11:04:22.847060,UK,United Kingdom,25.0,FQ RESTO,Complete,Paid,117.5,Bank Transfer,2024-10-04 11:04:22.847060,Q4,Submitted,0,Fail,No,Team C
+APP-100001,2024-06-27 11:04:22.847060,International,Canada,59.0,Student Registration,Complete,Paid,35.0,PayPal,2024-07-06 11:04:22.847060,Q3,Completed,4,Pass,No,Team A
+APP-100002,2025-03-10 11:04:22.847060,International,China,45.0,Fully Qualified,Incomplete,Pending,282.0,Bank Transfer,2025-03-24 11:04:22.847060,Q1,Completed,3,Pass,Yes,Team B
+APP-100003,2025-02-07 11:04:22.847060,UK,United Kingdom,48.0,Student Registration,Complete,Pending,35.0,Bank Transfer,2025-02-27 11:04:22.847060,Q1,Submitted,0,Pass,No,Team A
+APP-100004,2025-01-16 11:04:22.847060,UK,United Kingdom,26.0,Student Registration,Complete,Paid,35.0,PayPal,2025-02-02 11:04:22.847060,Q1,Withdrawn,0,Pass,No,Team A
+APP-100005,2024-10-22 11:04:22.847060,UK,United Kingdom,46.0,Fully Qualified,Complete,Paid,70.5,Bank Transfer,2024-11-07 11:04:22.847060,Q4,In Review,4,Fail,No,Team A
+APP-100006,2024-09-14 11:04:22.847060,UK,United Kingdom,31.0,Student Registration,Incomplete,Paid,35.0,Bank Transfer,2024-09-29 11:04:22.847060,Q3,Submitted,0,Pass,Yes,Team B
+APP-100007,2024-08-30 11:04:22.847060,International,Australia,57.0,Student Registration,Complete,Pending,35.0,PayPal,2024-09-27 11:04:22.847060,Q3,Completed,6,Pass,No,Team A
+APP-100008,2025-08-08 11:04:22.847060,UK,United Kingdom,58.0,STUDENT RESTO,Complete,Paid,35.0,PayPal,2025-09-07 11:04:22.847060,Q3,Completed,10,Pass,No,Team B
+APP-100009,2024-07-04 11:04:22.847060,International,Australia,39.0,Fully Qualified,Complete,Paid,141.0,Bank Transfer,2024-07-08 11:04:22.847060,Q3,Completed,5,Pass,No,Team C
+APP-100010,2024-07-02 11:04:22.847060,UK,United Kingdom,28.0,Fully Qualified,Complete,Pending,141.0,PayPal,2024-07-29 11:04:22.847060,Q3,Submitted,0,Pass,No,Team A
+APP-100011,2024-09-05 11:04:22.847060,International,China,40.0,Student Registration,Incomplete,Paid,35.0,PayPal,2024-09-21 11:04:22.847060,,In Review,9,Pass,Yes,Team B
+APP-100012,2025-01-11 11:04:22.847060,International,Nigeria,18.0,Student Registration,Incomplete,Paid,35.0,PayPal,2025-01-25 11:04:22.847060,Q1,Completed,7,Pass,Yes,Team B
+APP-100013,2025-01-26 11:04:22.847060,UK,United Kingdom,54.0,FQ RESTO,Complete,Paid,470.0,Bank Transfer,2025-02-03 11:04:22.847060,Q1,In Review,17,Pass,No,Team A
+APP-100014,2025-11-01 11:04:22.847060,UK,United Kingdom,38.0,Student Registration,Incomplete,Paid,35.0,Bank Transfer,2025-11-07 11:04:22.847060,Q4,,8,Pass,Yes,Team C
+APP-100015,2024-06-29 11:04:22.847060,UK,United Kingdom,43.0,Fully Qualified,Complete,Paid,141.0,PayPal,2024-07-24 11:04:22.847060,Q3,Submitted,0,Pass,No,Team B
+APP-100016,2024-12-22 11:04:22.847060,UK,United Kingdom,53.0,Student Registration,Incomplete,Paid,35.0,PayPal,2024-12-25 11:04:22.847060,Q4,Submitted,0,Pass,Yes,Team A
+APP-100017,2025-08-05 11:04:22.847060,UK,United Kingdom,40.0,Fully Qualified,Complete,Paid,141.0,PayPal,2025-08-15 11:04:22.847060,Q3,Completed,4,Pass,No,Team C
+APP-100018,2025-01-13 11:04:22.847060,UK,United Kingdom,18.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2025-01-18 11:04:22.847060,Q1,In Review,9,Pass,No,Team B
+APP-100019,2025-09-04 11:04:22.847060,UK,United Kingdom,57.0,FQ RESTO,Complete,Paid,235.0,Bank Transfer,2025-09-27 11:04:22.847060,Q3,Withdrawn,0,Fail,No,Team B
+APP-100020,2025-03-13 11:04:22.847060,UK,United Kingdom,32.0,FQ RESTO,Complete,Unpaid,,PayPal,,,In Review,11,Fail,No,Team C
+APP-100021,2024-06-08 11:04:22.847060,UK,United Kingdom,38.0,BD RESTO,Complete,Unpaid,0.0,Bank Transfer,,,Completed,16,Pass,No,Team C
+APP-100022,2024-11-12 11:04:22.847060,UK,United Kingdom,26.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2024-11-26 11:04:22.847060,Q4,In Review,4,Pass,No,Team A
+APP-100023,2025-08-08 11:04:22.847060,UK,United Kingdom,26.0,FQ RESTO,Complete,Paid,235.0,Bank Transfer,2025-08-28 11:04:22.847060,Q3,In Review,11,Fail,No,Team A
+APP-100024,2025-05-16 11:04:22.847060,UK,United Kingdom,27.0,Fully Qualified,Complete,Paid,211.5,Bank Transfer,2025-05-24 11:04:22.847060,Q2,Submitted,0,Pass,No,Team B
+APP-100025,2025-03-13 11:04:22.847060,International,Australia,43.0,Fully Qualified,Complete,Pending,211.5,PayPal,2025-04-04 11:04:22.847060,Q2,In Review,7,Pass,No,Team C
+APP-100026,2024-11-08 11:04:22.847060,UK,United Kingdom,58.0,Body Corporate,Complete,Paid,100.0,PayPal,2024-11-13 11:04:22.847060,Q4,Completed,6,Pass,No,Team C
+APP-100027,2025-01-08 11:04:22.847060,UK,United Kingdom,52.0,Student Registration,Incomplete,Unpaid,0.0,Bank Transfer,,,Withdrawn,0,Pass,Yes,Team C
+APP-100028,2025-05-12 11:04:22.847060,UK,United Kingdom,42.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2025-05-12 11:04:22.847060,Q2,Completed,8,Pass,No,Team B
+APP-100029,2024-09-14 11:04:22.847060,UK,United Kingdom,43.0,BD RESTO,Complete,Unpaid,0.0,PayPal,,,Submitted,0,Pass,No,Team C
+APP-100030,2024-09-04 11:04:22.847060,UK,United Kingdom,28.0,Student Registration,Complete,Pending,35.0,Bank Transfer,2024-09-27 11:04:22.847060,Q3,Submitted,0,Fail,No,Team C
+APP-100031,2025-06-26 11:04:22.847060,UK,United Kingdom,55.0,Body Corporate,Incomplete,Pending,200.0,Bank Transfer,2025-07-06 11:04:22.847060,Q3,Submitted,0,Fail,Yes,Team B
+APP-100032,2024-09-09 11:04:22.847060,UK,United Kingdom,19.0,Fully Qualified,Complete,Paid,70.5,PayPal,2024-10-04 11:04:22.847060,Q4,Completed,8,Pass,No,Team A
+APP-100033,2025-06-04 11:04:22.847060,International,France,24.0,FQ RESTO,Complete,Paid,352.5,Bank Transfer,2025-06-13 11:04:22.847060,Q2,Completed,11,Pass,No,Team A
+APP-100034,2025-05-20 11:04:22.847060,International,Australia,35.0,STUDENT RESTO,Incomplete,Paid,35.0,PayPal,2025-06-07 11:04:22.847060,Q2,Completed,16,Pass,Yes,Team B
+APP-100035,2025-02-27 11:04:22.847060,International,Germany,44.0,FQ RESTO,Incomplete,Paid,470.0,Bank Transfer,2025-03-20 11:04:22.847060,Q1,Submitted,0,Pass,Yes,Team C
+APP-100036,2024-07-16 11:04:22.847060,UK,United Kingdom,51.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2024-08-09 11:04:22.847060,Q3,Completed,9,Pass,No,Team B
+APP-100037,2025-09-15 11:04:22.847060,UK,United Kingdom,44.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2025-09-21 11:04:22.847060,Q3,In Review,2,Pass,No,Team A
+APP-100038,2024-10-07 11:04:22.847060,International,Germany,34.0,Fully Qualified,Complete,Paid,70.5,PayPal,2024-10-12 11:04:22.847060,Q4,Completed,9,Fail,No,Team A
+APP-100039,2025-06-24 11:04:22.847060,UK,United Kingdom,41.0,Student Registration,Incomplete,Paid,35.0,Bank Transfer,2025-07-13 11:04:22.847060,Q3,Completed,7,Pass,Yes,Team B
+APP-100040,2024-08-21 11:04:22.847060,UK,United Kingdom,42.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2024-09-17 11:04:22.847060,Q3,Completed,3,Pass,No,Team B
+APP-100041,2025-03-29 11:04:22.847060,UK,United Kingdom,24.0,Body Corporate,Complete,Paid,300.0,PayPal,2025-04-18 11:04:22.847060,Q2,Completed,9,Fail,No,Team A
+APP-100042,2025-06-07 11:04:22.847060,UK,United Kingdom,23.0,Fully Qualified,Incomplete,Unpaid,0.0,Bank Transfer,,,Submitted,0,Pass,Yes,Team B
+APP-100043,2024-12-15 11:04:22.847060,International,France,41.0,STUDENT RESTO,Complete,Paid,35.0,Bank Transfer,2025-01-12 11:04:22.847060,Q1,Completed,15,Pass,No,Team A
+APP-100044,2024-08-12 11:04:22.847060,UK,United Kingdom,50.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2024-08-24 11:04:22.847060,Q3,Submitted,0,Pass,No,Team B
+APP-100045,2024-07-18 11:04:22.847060,International,Australia,46.0,Student Registration,Complete,Paid,35.0,PayPal,2024-08-13 11:04:22.847060,Q3,Completed,3,Pass,No,Team B
+APP-100046,2025-01-21 11:04:22.847060,UK,United Kingdom,39.0,Student Registration,Complete,Pending,35.0,Bank Transfer,2025-02-03 11:04:22.847060,Q1,In Review,8,Pass,No,Team B
+APP-100047,2025-03-25 11:04:22.847060,UK,United Kingdom,43.0,STUDENT RESTO,Complete,Paid,35.0,Bank Transfer,2025-04-10 11:04:22.847060,Q2,Completed,13,Pass,No,Team A
+APP-100048,2024-08-22 11:04:22.847060,UK,United Kingdom,45.0,BD RESTO,,Paid,260.0,Bank Transfer,2024-09-01 11:04:22.847060,Q3,Completed,12,Pass,No,Team B
+APP-100049,2025-01-26 11:04:22.847060,UK,United Kingdom,38.0,FQ RESTO,Complete,Paid,470.0,Bank Transfer,2025-01-28 11:04:22.847060,Q1,Completed,10,Fail,No,Team A
+APP-100050,2024-09-13 11:04:22.847060,International,Nigeria,24.0,STUDENT RESTO,Complete,Paid,35.0,PayPal,2024-09-25 11:04:22.847060,Q3,Completed,17,Pass,No,Team A
+APP-100051,2025-06-26 11:04:22.847060,International,Pakistan,34.0,Fully Qualified,Incomplete,Paid,141.0,PayPal,2025-07-17 11:04:22.847060,Q3,Completed,5,Pass,Yes,Team B
+APP-100052,2025-03-13 11:04:22.847060,International,Brazil,37.0,Fully Qualified,Complete,Unpaid,0.0,PayPal,,,,7,Pass,No,Team B
+APP-100053,2025-09-09 11:04:22.847060,International,Nigeria,58.0,Fully Qualified,Incomplete,Unpaid,0.0,PayPal,,,Completed,7,Pass,Yes,Team A
+APP-100054,2025-06-10 11:04:22.847060,UK,United Kingdom,37.0,Body Corporate,Complete,Paid,300.0,PayPal,2025-06-13 11:04:22.847060,Q2,Completed,7,Pass,No,Team A
+APP-100055,2024-11-15 11:04:22.847060,International,India,39.0,Fully Qualified,Incomplete,Paid,70.5,Bank Transfer,2024-11-20 11:04:22.847060,Q4,In Review,10,Pass,Yes,Team C
+APP-100056,2025-06-16 11:04:22.847060,UK,United Kingdom,45.0,Fully Qualified,Complete,Paid,211.5,PayPal,2025-06-20 11:04:22.847060,Q2,Withdrawn,0,Pass,No,Team A
+APP-100057,2025-05-31 11:04:22.847060,UK,United Kingdom,57.0,STUDENT RESTO,Complete,Paid,35.0,Bank Transfer,2025-06-15 11:04:22.847060,Q2,Completed,12,Pass,No,Team C
+APP-100058,2025-01-02 11:04:22.847060,UK,United Kingdom,24.0,STUDENT RESTO,Complete,Paid,35.0,Bank Transfer,2025-01-12 11:04:22.847060,Q1,Completed,10,Pass,No,Team C
+APP-100059,2025-03-02 11:04:22.847060,UK,United Kingdom,18.0,BD RESTO,Incomplete,Paid,520.0,PayPal,2025-03-31 11:04:22.847060,Q1,In Review,17,Pass,Yes,Team C
+APP-100060,2024-08-14 11:04:22.847060,UK,United Kingdom,49.0,BD RESTO,Complete,Unpaid,0.0,Bank Transfer,,,Submitted,0,Pass,No,Team B
+APP-100061,2024-11-24 11:04:22.847060,UK,United Kingdom,30.0,Body Corporate,Complete,Unpaid,0.0,PayPal,,,Completed,3,Fail,No,Team B
+APP-100062,2025-02-07 11:04:22.847060,International,India,47.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2025-02-14 11:04:22.847060,Q1,Submitted,0,Pass,No,Team A
+APP-100063,2024-11-16 11:04:22.847060,UK,United Kingdom,40.0,Student Registration,Incomplete,Paid,35.0,PayPal,2024-11-16 11:04:22.847060,Q4,Completed,8,Pass,Yes,Team C
+APP-100064,2025-09-18 11:04:22.847060,UK,United Kingdom,36.0,Body Corporate,Complete,Paid,200.0,Bank Transfer,2025-09-26 11:04:22.847060,Q3,In Review,7,Pass,No,Team B
+APP-100065,2025-06-25 11:04:22.847060,UK,United Kingdom,49.0,BD RESTO,Complete,Paid,260.0,PayPal,2025-07-07 11:04:22.847060,Q3,In Review,10,Pass,No,Team B
+APP-100066,2025-03-05 11:04:22.847060,UK,United Kingdom,47.0,Student Registration,Complete,Paid,35.0,PayPal,2025-03-12 11:04:22.847060,Q1,Completed,3,Pass,No,Team B
+APP-100067,2025-01-12 11:04:22.847060,International,China,46.0,STUDENT RESTO,Incomplete,Paid,35.0,Bank Transfer,2025-01-26 11:04:22.847060,Q1,Completed,12,Pass,Yes,Team B
+APP-100068,2025-04-30 11:04:22.847060,UK,United Kingdom,46.0,Student Registration,Complete,Pending,35.0,Bank Transfer,2025-05-24 11:04:22.847060,Q2,Completed,4,Pass,No,Team B
+APP-100069,2024-07-29 11:04:22.847060,International,India,47.0,Student Registration,Complete,Pending,35.0,Bank Transfer,2024-08-06 11:04:22.847060,Q3,Completed,4,Pass,No,Team C
+APP-100070,2025-01-22 11:04:22.847060,International,USA,33.0,Body Corporate,Complete,Paid,400.0,Bank Transfer,2025-02-21 11:04:22.847060,Q1,In Review,8,Pass,No,Team C
+APP-100071,2024-07-04 11:04:22.847060,UK,United Kingdom,57.0,Student Registration,Complete,Paid,35.0,PayPal,2024-07-14 11:04:22.847060,Q3,Completed,5,Pass,No,Team C
+APP-100072,2025-04-21 11:04:22.847060,UK,United Kingdom,36.0,Student Registration,Complete,Paid,35.0,PayPal,2025-04-30 11:04:22.847060,Q2,In Review,11,Pass,No,Team C
+APP-100073,2025-07-17 11:04:22.847060,International,China,35.0,Fully Qualified,Complete,Paid,141.0,Bank Transfer,2025-08-04 11:04:22.847060,Q3,Completed,5,Fail,No,Team A
+APP-100074,2025-03-03 11:04:22.847060,International,Canada,18.0,BD RESTO,Complete,Paid,520.0,PayPal,2025-03-26 11:04:22.847060,Q1,Completed,11,Pass,No,Team C
+APP-100075,2024-08-08 11:04:22.847060,International,Germany,31.0,Fully Qualified,Complete,Paid,141.0,PayPal,2024-08-26 11:04:22.847060,Q3,In Review,8,Pass,No,Team B
+APP-100076,2025-01-04 11:04:22.847060,International,France,19.0,Body Corporate,Complete,Paid,400.0,Bank Transfer,2025-01-04 11:04:22.847060,Q1,Completed,6,Pass,No,Team C
+APP-100077,2025-04-20 11:04:22.847060,UK,United Kingdom,45.0,Body Corporate,Complete,Paid,300.0,PayPal,2025-04-28 11:04:22.847060,Q2,Completed,6,Pass,No,Team A
+APP-100078,2025-01-05 11:04:22.847060,UK,United Kingdom,47.0,Student Registration,Complete,Unpaid,0.0,PayPal,,,In Review,8,Pass,No,
+APP-100079,2025-10-26 11:04:22.847060,UK,United Kingdom,55.0,STUDENT RESTO,Complete,Paid,35.0,Bank Transfer,2025-11-15 11:04:22.847060,Q4,Withdrawn,0,Pass,No,Team C
+APP-100080,2025-07-12 11:04:22.847060,International,Australia,21.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2025-07-23 11:04:22.847060,Q3,Submitted,0,Pass,No,Team C
+APP-100081,2025-09-14 11:04:22.847060,UK,United Kingdom,18.0,STUDENT RESTO,Complete,Paid,35.0,Bank Transfer,2025-10-06 11:04:22.847060,Q4,In Review,12,Pass,No,Team C
+APP-100082,2024-10-26 11:04:22.847060,UK,United Kingdom,25.0,Fully Qualified,Complete,Paid,70.5,PayPal,2024-11-02 11:04:22.847060,Q4,Completed,4,Pass,No,Team B
+APP-100083,2025-02-28 11:04:22.847060,UK,United Kingdom,46.0,STUDENT RESTO,Complete,Paid,35.0,PayPal,2025-03-01 11:04:22.847060,Q1,Completed,12,Pass,No,Team B
+APP-100084,2024-10-22 11:04:22.847060,UK,United Kingdom,56.0,Student Registration,Complete,Unpaid,,PayPal,,,Completed,8,Pass,No,Team A
+APP-100085,2025-02-09 11:04:22.847060,UK,United Kingdom,20.0,Fully Qualified,Complete,Pending,282.0,Bank Transfer,2025-03-02 11:04:22.847060,Q1,Completed,8,Pass,No,Team B
+APP-100086,2025-02-26 11:04:22.847060,International,Nigeria,49.0,Student Registration,Incomplete,Paid,35.0,Bank Transfer,2025-03-01 11:04:22.847060,Q1,Completed,7,Pass,Yes,Team B
+APP-100087,2025-08-14 11:04:22.847060,UK,United Kingdom,27.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2025-08-28 11:04:22.847060,Q3,Completed,8,Pass,No,Team C
+APP-100088,2025-07-15 11:04:22.847060,International,Nigeria,27.0,Body Corporate,Complete,Paid,200.0,Bank Transfer,2025-07-24 11:04:22.847060,Q3,Submitted,0,Pass,No,Team B
+APP-100089,2025-06-07 11:04:22.847060,UK,United Kingdom,36.0,Student Registration,Complete,Paid,35.0,PayPal,2025-06-12 11:04:22.847060,Q2,In Review,2,Pass,No,Team C
+APP-100090,2025-01-12 11:04:22.847060,UK,United Kingdom,51.0,Body Corporate,Complete,Pending,400.0,PayPal,2025-01-24 11:04:22.847060,Q1,In Review,5,Pass,No,Team C
+APP-100091,2024-10-21 11:04:22.847060,International,China,50.0,Student Registration,Complete,Paid,35.0,PayPal,2024-11-11 11:04:22.847060,Q4,In Review,6,Fail,No,Team B
+APP-100092,2025-11-05 11:04:22.847060,International,China,40.0,Fully Qualified,Complete,Paid,70.5,PayPal,2025-11-21 11:04:22.847060,Q4,Completed,4,Pass,No,Team A
+APP-100093,2025-10-20 11:04:22.847060,UK,United Kingdom,45.0,BD RESTO,Complete,Paid,130.0,Bank Transfer,2025-11-18 11:04:22.847060,Q4,Submitted,0,Pass,No,Team A
+APP-100094,2024-09-03 11:04:22.847060,International,USA,49.0,Fully Qualified,Complete,Paid,70.5,Bank Transfer,2024-10-01 11:04:22.847060,Q4,In Review,2,Pass,No,Team B
+APP-100095,2024-07-20 11:04:22.847060,UK,United Kingdom,24.0,Body Corporate,Complete,Unpaid,0.0,Bank Transfer,,,In Review,6,Pass,No,Team A
+APP-100096,2024-09-22 11:04:22.847060,UK,United Kingdom,46.0,Body Corporate,Complete,Paid,100.0,PayPal,2024-10-20 11:04:22.847060,Q4,Completed,6,Pass,No,Team C
+APP-100097,2024-11-05 11:04:22.847060,UK,United Kingdom,25.0,FQ RESTO,Incomplete,Pending,117.5,PayPal,2024-11-27 11:04:22.847060,Q4,Completed,13,Pass,Yes,Team C
+APP-100098,2024-11-12 11:04:22.847060,UK,United Kingdom,18.0,Fully Qualified,Complete,Paid,70.5,Bank Transfer,2024-12-06 11:04:22.847060,Q4,Completed,9,Fail,No,Team B
+APP-100099,2025-08-08 11:04:22.847060,UK,United Kingdom,20.0,Body Corporate,Incomplete,Pending,200.0,Bank Transfer,2025-08-17 11:04:22.847060,Q3,Completed,3,Pass,Yes,Team A
+APP-100100,2024-08-06 11:04:22.847060,UK,United Kingdom,41.0,STUDENT RESTO,Complete,Paid,35.0,Bank Transfer,2024-08-28 11:04:22.847060,Q3,Completed,15,Pass,No,Team A
+APP-100101,2025-07-01 11:04:22.847060,UK,United Kingdom,40.0,BD RESTO,Complete,Paid,260.0,Bank Transfer,2025-07-04 11:04:22.847060,Q3,Completed,15,Fail,No,Team C
+APP-100102,2025-06-27 11:04:22.847060,UK,United Kingdom,25.0,Fully Qualified,Complete,Pending,141.0,Bank Transfer,2025-07-17 11:04:22.847060,Q3,Submitted,0,,No,Team B
+APP-100103,2025-09-24 11:04:22.847060,UK,United Kingdom,54.0,Body Corporate,Complete,Paid,100.0,Bank Transfer,2025-10-23 11:04:22.847060,Q4,Completed,6,Pass,No,Team A
+APP-100104,2025-02-14 11:04:22.847060,International,USA,20.0,BD RESTO,Incomplete,Paid,520.0,Bank Transfer,2025-03-16 11:04:22.847060,Q1,Completed,14,Pass,Yes,Team B
+APP-100105,2024-06-13 11:04:22.847060,UK,United Kingdom,50.0,Body Corporate,Complete,Paid,300.0,PayPal,2024-06-22 11:04:22.847060,Q2,Completed,5,Pass,No,Team A
+APP-100106,2024-09-27 11:04:22.847060,UK,United Kingdom,45.0,Student Registration,Incomplete,,35.0,Bank Transfer,2024-10-08 11:04:22.847060,Q4,Completed,6,Pass,Yes,Team C
+APP-100107,2025-03-02 11:04:22.847060,International,Pakistan,25.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2025-03-21 11:04:22.847060,Q1,Completed,7,Fail,No,Team C
+APP-100108,2025-05-16 11:04:22.847060,UK,United Kingdom,51.0,FQ RESTO,Incomplete,Unpaid,0.0,Bank Transfer,,,Completed,13,Pass,Yes,Team B
+APP-100109,2024-09-24 11:04:22.847060,UK,United Kingdom,52.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2024-10-01 11:04:22.847060,Q4,Completed,7,Pass,No,Team C
+APP-100110,2025-03-29 11:04:22.847060,UK,United Kingdom,49.0,BD RESTO,Complete,Paid,390.0,Bank Transfer,2025-04-05 11:04:22.847060,Q2,In Review,17,Pass,No,Team A
+APP-100111,2025-08-21 11:04:22.847060,UK,United Kingdom,41.0,Fully Qualified,Complete,Pending,141.0,Bank Transfer,2025-09-20 11:04:22.847060,Q3,Completed,8,Pass,No,Team C
+APP-100112,2024-11-10 11:04:22.847060,International,Pakistan,31.0,Fully Qualified,Complete,Paid,70.5,Bank Transfer,2024-11-14 11:04:22.847060,Q4,In Review,1,Fail,No,Team B
+APP-100113,2025-09-09 11:04:22.847060,International,Brazil,49.0,Student Registration,Complete,Pending,35.0,Bank Transfer,2025-09-24 11:04:22.847060,Q3,Completed,8,Pass,No,Team B
+APP-100114,2024-06-05 11:04:22.847060,UK,United Kingdom,33.0,Student Registration,Complete,Unpaid,0.0,PayPal,,,Completed,8,Pass,No,Team B
+APP-100115,2025-02-26 11:04:22.847060,International,Canada,21.0,STUDENT RESTO,,Paid,35.0,Bank Transfer,2025-03-02 11:04:22.847060,Q1,Submitted,0,Pass,Yes,Team A
+APP-100116,2025-10-27 11:04:22.847060,International,Pakistan,54.0,FQ RESTO,Complete,Paid,117.5,PayPal,2025-11-10 11:04:22.847060,Q4,Completed,17,Pass,No,Team A
+APP-100117,2024-12-01 11:04:22.847060,UK,United Kingdom,38.0,Body Corporate,Complete,Paid,100.0,Bank Transfer,2024-12-24 11:04:22.847060,Q4,In Review,7,Pass,No,Team A
+APP-100118,2025-11-03 11:04:22.847060,International,Nigeria,31.0,Fully Qualified,Complete,Pending,70.5,Bank Transfer,2025-11-22 11:04:22.847060,Q4,Completed,4,Pass,No,Team A
+APP-100119,2024-09-18 11:04:22.847060,UK,United Kingdom,48.0,Body Corporate,Complete,Pending,200.0,Bank Transfer,2024-09-29 11:04:22.847060,,In Review,5,Pass,No,Team A
+APP-100120,2025-04-03 11:04:22.847060,International,Germany,35.0,Body Corporate,Complete,Paid,300.0,Bank Transfer,2025-04-16 11:04:22.847060,Q2,Completed,8,Pass,No,Team C
+APP-100121,2025-11-03 11:04:22.847060,International,Canada,24.0,Body Corporate,Complete,Paid,100.0,PayPal,,Q4,Submitted,0,Pass,No,Team A
+APP-100122,2024-12-22 11:04:22.847060,UK,United Kingdom,27.0,Student Registration,Complete,Paid,35.0,PayPal,2025-01-08 11:04:22.847060,Q1,Completed,4,Pass,No,Team A
+APP-100123,2024-11-05 11:04:22.847060,UK,United Kingdom,24.0,Body Corporate,Complete,Pending,100.0,PayPal,2024-12-04 11:04:22.847060,Q4,In Review,7,Pass,No,Team C
+APP-100124,2025-06-19 11:04:22.847060,UK,United Kingdom,50.0,BD RESTO,Complete,Paid,260.0,PayPal,2025-07-04 11:04:22.847060,Q3,Completed,15,Pass,No,Team A
+APP-100125,2024-11-14 11:04:22.847060,UK,United Kingdom,40.0,STUDENT RESTO,Complete,Paid,35.0,PayPal,2024-12-08 11:04:22.847060,Q4,Completed,11,Pass,No,Team B
+APP-100126,2024-06-02 11:04:22.847060,International,Australia,38.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2024-06-19 11:04:22.847060,Q2,Withdrawn,0,Pass,No,Team A
+APP-100127,2025-04-29 11:04:22.847060,International,USA,36.0,BD RESTO,Complete,Pending,390.0,Bank Transfer,2025-05-24 11:04:22.847060,Q2,Completed,15,Pass,No,Team A
+APP-100128,2025-10-15 11:04:22.847060,UK,United Kingdom,36.0,Body Corporate,Complete,Paid,100.0,PayPal,2025-11-05 11:04:22.847060,Q4,Completed,8,Pass,No,Team B
+APP-100129,2024-06-21 11:04:22.847060,UK,United Kingdom,11.0,Fully Qualified,Complete,Paid,141.0,PayPal,2024-07-17 11:04:22.847060,Q3,In Review,8,Pass,No,Team B
+APP-100130,2024-09-24 11:04:22.847060,UK,United Kingdom,46.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2024-09-30 11:04:22.847060,Q3,In Review,9,Pass,No,Team B
+APP-100131,2025-06-08 11:04:22.847060,UK,United Kingdom,35.0,Fully Qualified,Incomplete,Paid,141.0,PayPal,2025-07-02 11:04:22.847060,Q3,In Review,7,Fail,Yes,Team B
+APP-100132,2025-04-12 11:04:22.847060,UK,United Kingdom,19.0,Fully Qualified,Complete,Pending,211.5,Bank Transfer,2025-04-19 11:04:22.847060,Q2,Completed,9,Pass,No,Team A
+APP-100133,2025-02-02 11:04:22.847060,UK,United Kingdom,18.0,Fully Qualified,Incomplete,Unpaid,0.0,Bank Transfer,,,Completed,4,Pass,Yes,Team B
+APP-100134,2024-07-31 11:04:22.847060,International,Canada,22.0,BD RESTO,Complete,Paid,260.0,Bank Transfer,2024-08-21 11:04:22.847060,Q3,Submitted,0,Pass,No,Team B
+APP-100135,2025-02-03 11:04:22.847060,UK,United Kingdom,37.0,BD RESTO,Complete,Paid,520.0,PayPal,2025-02-27 11:04:22.847060,Q1,Completed,12,Pass,No,Team C
+APP-100136,2024-08-21 11:04:22.847060,UK,United Kingdom,28.0,Body Corporate,Complete,Paid,200.0,PayPal,2024-09-09 11:04:22.847060,Q3,Completed,5,Pass,No,Team B
+APP-100137,2024-08-28 11:04:22.847060,International,Brazil,59.0,STUDENT RESTO,Incomplete,Paid,35.0,Bank Transfer,2024-09-24 11:04:22.847060,Q3,Completed,16,Pass,Yes,Team B
+APP-100138,2025-10-12 11:04:22.847060,UK,United Kingdom,19.0,Fully Qualified,Complete,Pending,70.5,Bank Transfer,2025-11-06 11:04:22.847060,Q4,Submitted,0,Fail,No,Team C
+APP-100139,2024-08-11 11:04:22.847060,International,China,20.0,Student Registration,Incomplete,Paid,35.0,Bank Transfer,2024-08-13 11:04:22.847060,Q3,Submitted,0,Pass,Yes,Team C
+APP-100140,2024-10-08 11:04:22.847060,International,Nigeria,40.0,Body Corporate,Incomplete,Paid,100.0,PayPal,2024-10-24 11:04:22.847060,Q4,Completed,6,Fail,Yes,Team A
+APP-100141,2024-10-11 11:04:22.847060,UK,United Kingdom,29.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2024-10-25 11:04:22.847060,Q4,Completed,6,Pass,No,Team C
+APP-100142,2025-10-01 11:04:22.847060,UK,United Kingdom,37.0,Fully Qualified,Complete,Paid,70.5,Bank Transfer,2025-10-17 11:04:22.847060,Q4,In Review,8,Pass,No,Team A
+APP-100143,2024-11-18 11:04:22.847060,UK,United Kingdom,22.0,Student Registration,Complete,,35.0,Bank Transfer,2024-12-10 11:04:22.847060,Q4,Completed,8,Fail,No,
+APP-100144,2025-02-28 11:04:22.847060,UK,United Kingdom,54.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2025-03-11 11:04:22.847060,Q1,Completed,9,Pass,No,Team C
+APP-100145,2025-11-24 11:04:22.847060,UK,United Kingdom,55.0,FQ RESTO,Incomplete,Paid,117.5,Bank Transfer,2025-11-26 11:04:22.847060,Q4,Completed,13,Pass,Yes,Team A
+APP-100146,2025-08-09 11:04:22.847060,UK,United Kingdom,47.0,Student Registration,Incomplete,Pending,15000.0,PayPal,2025-09-07 11:04:22.847060,Q3,Completed,4,Pass,Yes,Team C
+APP-100147,2025-01-04 11:04:22.847060,UK,United Kingdom,26.0,Fully Qualified,Complete,Paid,282.0,Bank Transfer,2025-01-22 11:04:22.847060,Q1,In Review,9,Pass,No,Team A
+APP-100148,2024-12-24 11:04:22.847060,UK,United Kingdom,51.0,Student Registration,Complete,Paid,35.0,PayPal,2024-12-27 11:04:22.847060,Q4,In Review,8,Pass,No,Team C
+APP-100149,2025-04-17 11:04:22.847060,UK,United Kingdom,,Body Corporate,Complete,Unpaid,0.0,Bank Transfer,,,Completed,8,Pass,No,Team B
+APP-100150,2025-07-15 11:04:22.847060,International,Pakistan,39.0,Fully Qualified,Complete,Paid,141.0,Bank Transfer,2025-07-16 11:04:22.847060,Q3,In Review,7,Pass,No,Team C
+APP-100151,2025-06-19 11:04:22.847060,UK,United Kingdom,41.0,BD RESTO,Incomplete,Pending,260.0,Bank Transfer,2025-07-15 11:04:22.847060,Q3,Submitted,0,Pass,Yes,Team A
+APP-100152,2025-08-24 11:04:22.847060,UK,United Kingdom,34.0,Fully Qualified,Complete,Paid,141.0,PayPal,2025-09-10 11:04:22.847060,Q3,In Review,8,Pass,No,Team C
+APP-100153,2025-11-13 11:04:22.847060,UK,United Kingdom,27.0,Student Registration,Complete,Paid,35.0,PayPal,2025-12-11 11:04:22.847060,Q4,In Review,3,Pass,No,Team A
+APP-100154,2025-09-07 11:04:22.847060,International,Pakistan,47.0,Fully Qualified,Complete,Paid,141.0,PayPal,2025-09-23 11:04:22.847060,Q3,In Review,4,Pass,No,Team A
+APP-100155,2024-10-03 11:04:22.847060,UK,United Kingdom,40.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2024-10-09 11:04:22.847060,Q4,In Review,9,Pass,No,Team B
+APP-100156,2025-02-10 11:04:22.847060,International,Nigeria,49.0,Fully Qualified,Complete,Paid,282.0,Bank Transfer,2025-02-28 11:04:22.847060,Q1,In Review,8,Pass,No,Team B
+APP-100157,2025-01-18 11:04:22.847060,International,Nigeria,34.0,Fully Qualified,Complete,Unpaid,0.0,PayPal,,,Submitted,0,Pass,No,Team A
+APP-100158,2024-08-06 11:04:22.847060,UK,United Kingdom,34.0,STUDENT RESTO,Complete,Paid,35.0,PayPal,2024-08-23 11:04:22.847060,Q3,Completed,10,Pass,No,Team C
+APP-100159,2025-05-14 11:04:22.847060,International,USA,31.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2025-05-18 11:04:22.847060,Q2,Completed,9,Pass,No,Team A
+APP-100160,2024-06-23 11:04:22.847060,UK,United Kingdom,26.0,Body Corporate,Incomplete,Paid,300.0,PayPal,2024-06-28 11:04:22.847060,Q2,Completed,6,Pass,Yes,Team A
+APP-100161,2025-01-23 11:04:22.847060,UK,United Kingdom,57.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2025-02-02 11:04:22.847060,Q1,Submitted,0,Pass,No,Team C
+APP-100162,2025-01-13 11:04:22.847060,UK,United Kingdom,19.0,Fully Qualified,Complete,Paid,282.0,Bank Transfer,2025-02-09 11:04:22.847060,Q1,In Review,5,Pass,No,Team C
+APP-100163,2024-06-09 11:04:22.847060,UK,United Kingdom,42.0,Fully Qualified,Complete,Paid,211.5,Bank Transfer,2024-06-25 11:04:22.847060,Q2,Completed,7,Pass,No,Team C
+APP-100164,2024-08-13 11:04:22.847060,UK,United Kingdom,56.0,STUDENT RESTO,Complete,Pending,35.0,Bank Transfer,2024-08-27 11:04:22.847060,Q3,Completed,13,Pass,No,Team C
+APP-100165,2024-08-01 11:04:22.847060,International,Pakistan,26.0,Student Registration,Complete,Unpaid,0.0,Bank Transfer,,,Completed,3,Pass,No,Team A
+APP-100166,2025-01-22 11:04:22.847060,UK,,39.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2025-01-25 11:04:22.847060,Q1,In Review,6,Pass,No,Team A
+APP-100167,2024-08-10 11:04:22.847060,UK,United Kingdom,21.0,Fully Qualified,Complete,Paid,141.0,Bank Transfer,2024-08-31 11:04:22.847060,Q3,Completed,5,Pass,No,Team B
+APP-100168,2024-07-04 11:04:22.847060,UK,United Kingdom,43.0,Student Registration,Complete,Unpaid,0.0,Bank Transfer,,,In Review,7,Fail,No,Team A
+APP-100169,2025-05-06 11:04:22.847060,UK,United Kingdom,46.0,Student Registration,Complete,Pending,35.0,Bank Transfer,2025-05-12 11:04:22.847060,Q2,In Review,4,Fail,No,Team C
+APP-100170,2024-08-13 11:04:22.847060,International,France,51.0,Body Corporate,Complete,Paid,200.0,PayPal,2024-09-04 11:04:22.847060,Q3,Completed,5,Pass,No,Team B
+APP-100171,2025-11-10 11:04:22.847060,UK,United Kingdom,40.0,Student Registration,Incomplete,Unpaid,0.0,Bank Transfer,,,Completed,6,Pass,Yes,Team C
+APP-100172,2025-01-31 11:04:22.847060,UK,United Kingdom,54.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2025-02-18 11:04:22.847060,Q1,In Review,2,Pass,No,Team A
+APP-100173,2025-03-14 11:04:22.847060,UK,United Kingdom,28.0,BD RESTO,Complete,Unpaid,0.0,Bank Transfer,,,In Review,13,Pass,No,Team B
+APP-100174,2025-10-12 11:04:22.847060,UK,United Kingdom,23.0,Fully Qualified,Complete,Paid,70.5,PayPal,2025-10-27 11:04:22.847060,Q4,Completed,8,Pass,No,Team C
+APP-100175,2025-01-07 11:04:22.847060,UK,United Kingdom,35.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2025-01-09 11:04:22.847060,Q1,In Review,9,Pass,No,Team B
+APP-100176,2024-10-15 11:04:22.847060,International,Australia,38.0,Student Registration,Complete,Pending,35.0,Bank Transfer,2024-11-12 11:04:22.847060,Q4,Submitted,0,Pass,No,Team B
+APP-100177,2025-09-29 11:04:22.847060,UK,United Kingdom,59.0,Body Corporate,Complete,Paid,100.0,Bank Transfer,2025-10-15 11:04:22.847060,Q4,In Review,2,Pass,No,Team A
+APP-100178,2025-02-05 11:04:22.847060,International,USA,53.0,Student Registration,Incomplete,Paid,35.0,PayPal,2025-02-19 11:04:22.847060,Q1,Completed,6,Pass,Yes,Team C
+APP-100179,2025-09-29 11:04:22.847060,UK,United Kingdom,58.0,Fully Qualified,Complete,Paid,70.5,Bank Transfer,2025-10-24 11:04:22.847060,Q4,Submitted,0,Pass,No,Team B
+APP-100180,2025-07-23 11:04:22.847060,UK,United Kingdom,55.0,Student Registration,Complete,Unpaid,0.0,Bank Transfer,,,Withdrawn,0,Pass,No,Team B
+APP-100181,2024-12-13 11:04:22.847060,UK,United Kingdom,51.0,Body Corporate,Complete,Pending,100.0,Bank Transfer,2024-12-14 11:04:22.847060,Q4,Completed,9,Fail,No,Team C
+APP-100182,2024-09-06 11:04:22.847060,International,France,34.0,Fully Qualified,,Pending,141.0,Bank Transfer,2024-09-20 11:04:22.847060,Q3,Withdrawn,0,Pass,No,Team B
+APP-100183,2024-09-09 11:04:22.847060,International,China,54.0,Body Corporate,Complete,Paid,200.0,PayPal,2024-09-13 11:04:22.847060,Q3,Completed,7,Pass,No,Team B
+APP-100184,2025-08-17 11:04:22.847060,UK,United Kingdom,42.0,FQ RESTO,Complete,Pending,235.0,PayPal,2025-09-02 11:04:22.847060,Q3,In Review,15,Pass,No,Team B
+APP-100185,2025-05-30 11:04:22.847060,International,China,55.0,Body Corporate,Complete,Paid,300.0,PayPal,2025-06-12 11:04:22.847060,Q2,Submitted,0,Pass,No,Team C
+APP-100186,2025-08-09 11:04:22.847060,International,USA,29.0,Student Registration,Incomplete,Paid,35.0,PayPal,2025-08-23 11:04:22.847060,Q3,Submitted,0,Pass,Yes,Team C
+APP-100187,2025-07-27 11:04:22.847060,UK,United Kingdom,40.0,Student Registration,Complete,Pending,35.0,Bank Transfer,2025-08-14 11:04:22.847060,Q3,In Review,2,Pass,No,Team C
+APP-100188,2025-09-23 11:04:22.847060,UK,United Kingdom,59.0,Fully Qualified,Complete,Paid,141.0,Bank Transfer,2025-09-24 11:04:22.847060,Q3,Completed,7,Pass,No,Team C
+APP-100189,2024-07-27 11:04:22.847060,UK,United Kingdom,39.0,Student Registration,Complete,Paid,35.0,PayPal,2024-08-13 11:04:22.847060,Q3,In Review,1,Pass,No,Team A
+APP-100190,2024-09-10 11:04:22.847060,UK,United Kingdom,38.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2024-09-24 11:04:22.847060,Q3,In Review,10,Pass,No,Team B
+APP-100191,2024-08-03 11:04:22.847060,International,Brazil,44.0,BD RESTO,Complete,Paid,260.0,PayPal,2024-08-24 11:04:22.847060,Q3,In Review,13,Pass,No,Team C
+APP-100192,2025-07-19 11:04:22.847060,International,India,48.0,Fully Qualified,Complete,Pending,141.0,Bank Transfer,2025-08-13 11:04:22.847060,Q3,Completed,6,Pass,No,Team B
+APP-100193,2025-05-15 11:04:22.847060,UK,United Kingdom,23.0,Fully Qualified,Complete,Paid,211.5,Bank Transfer,2025-05-24 11:04:22.847060,Q2,Submitted,0,Pass,No,Team B
+APP-100194,2024-09-21 11:04:22.847060,UK,United Kingdom,44.0,Body Corporate,Incomplete,Pending,100.0,PayPal,2024-10-14 11:04:22.847060,Q4,Submitted,0,Pass,Yes,Team A
+APP-100195,2025-02-11 11:04:22.847060,UK,United Kingdom,57.0,Body Corporate,Complete,Paid,400.0,PayPal,2025-02-11 11:04:22.847060,Q1,Submitted,0,Fail,No,Team C
+APP-100196,2024-12-15 11:04:22.847060,International,France,51.0,Student Registration,Complete,Paid,35.0,PayPal,2024-12-27 11:04:22.847060,Q4,Completed,9,Pass,No,Team C
+APP-100197,2024-12-13 11:04:22.847060,International,Germany,29.0,FQ RESTO,Incomplete,Paid,117.5,Bank Transfer,2024-12-21 11:04:22.847060,Q4,Completed,17,Pass,Yes,Team B
+APP-100198,2025-09-04 11:04:22.847060,International,Pakistan,24.0,Student Registration,Complete,Pending,35.0,PayPal,2025-09-30 11:04:22.847060,Q3,In Review,2,Pass,No,Team C
+APP-100199,2024-10-23 11:04:22.847060,International,Brazil,27.0,BD RESTO,Complete,Paid,130.0,Bank Transfer,2024-10-23 11:04:22.847060,Q4,Submitted,0,Pass,No,Team B
+APP-100200,2025-08-08 11:04:22.847060,UK,United Kingdom,34.0,BD RESTO,Complete,Unpaid,0.0,Bank Transfer,,,In Review,12,Pass,No,Team B
+APP-100201,2024-12-06 11:04:22.847060,UK,United Kingdom,43.0,BD RESTO,Complete,Paid,130.0,PayPal,2024-12-29 11:04:22.847060,Q4,Submitted,0,Pass,No,Team A
+APP-100202,2025-03-14 11:04:22.847060,UK,United Kingdom,38.0,Body Corporate,Complete,Paid,400.0,PayPal,2025-03-20 11:04:22.847060,Q1,Completed,4,Fail,No,Team A
+APP-100203,2025-09-18 11:04:22.847060,International,Canada,45.0,Student Registration,Incomplete,Paid,35.0,Bank Transfer,2025-10-06 11:04:22.847060,Q4,Completed,7,Pass,Yes,Team A
+APP-100204,2025-02-12 11:04:22.847060,UK,United Kingdom,19.0,Fully Qualified,Complete,Unpaid,0.0,PayPal,,,In Review,11,Pass,No,Team B
+APP-100205,2024-08-18 11:04:22.847060,UK,United Kingdom,18.0,Body Corporate,Complete,Pending,200.0,Bank Transfer,2024-08-20 11:04:22.847060,Q3,Completed,6,Pass,No,Team C
+APP-100206,2025-08-29 11:04:22.847060,UK,United Kingdom,53.0,Fully Qualified,,Paid,141.0,Bank Transfer,2025-08-30 11:04:22.847060,Q3,In Review,8,Pass,No,Team A
+APP-100207,2024-09-10 11:04:22.847060,International,China,43.0,FQ RESTO,Complete,Paid,235.0,Bank Transfer,2024-09-23 11:04:22.847060,Q3,Completed,13,Pass,No,Team C
+APP-100208,2024-07-23 11:04:22.847060,UK,United Kingdom,46.0,Fully Qualified,Complete,Paid,141.0,PayPal,2024-08-03 11:04:22.847060,Q3,Completed,5,Pass,No,Team A
+APP-100209,2024-06-17 11:04:22.847060,UK,United Kingdom,38.0,Student Registration,Complete,Pending,35.0,Bank Transfer,2024-07-09 11:04:22.847060,Q3,In Review,6,Pass,No,Team A
+APP-100210,2024-09-05 11:04:22.847060,UK,United Kingdom,28.0,Student Registration,Incomplete,Paid,35.0,PayPal,2024-09-07 11:04:22.847060,Q3,Completed,8,Pass,Yes,Team B
+APP-100211,2025-01-30 11:04:22.847060,International,China,57.0,Fully Qualified,Complete,Pending,282.0,Bank Transfer,2025-02-16 11:04:22.847060,Q1,In Review,6,Pass,No,Team A
+APP-100212,2024-11-19 11:04:22.847060,International,USA,28.0,Body Corporate,Complete,Unpaid,0.0,PayPal,,,In Review,9,Fail,No,Team A
+APP-100213,2025-07-23 11:04:22.847060,UK,United Kingdom,53.0,BD RESTO,Complete,Paid,260.0,Bank Transfer,2025-07-24 11:04:22.847060,Q3,Submitted,0,Pass,No,Team B
+APP-100214,2025-10-12 11:04:22.847060,International,India,56.0,Body Corporate,Complete,Pending,100.0,PayPal,2025-11-10 11:04:22.847060,Q4,In Review,3,Fail,No,Team C
+APP-100215,2025-10-07 11:04:22.847060,UK,United Kingdom,57.0,FQ RESTO,Complete,Paid,117.5,Bank Transfer,2025-11-04 11:04:22.847060,Q4,Completed,15,Pass,No,Team A
+APP-100216,2025-01-06 11:04:22.847060,UK,United Kingdom,52.0,FQ RESTO,Complete,Paid,470.0,PayPal,2025-01-08 11:04:22.847060,,Completed,13,Fail,No,Team B
+APP-100217,2025-07-17 11:04:22.847060,International,China,51.0,FQ RESTO,Complete,Paid,235.0,PayPal,2025-08-15 11:04:22.847060,Q3,Completed,15,Pass,No,Team A
+APP-100218,2024-08-01 11:04:22.847060,UK,United Kingdom,41.0,Student Registration,Complete,Paid,35.0,PayPal,2024-08-16 11:04:22.847060,Q3,Completed,9,Pass,No,Team B
+APP-100219,2024-11-17 11:04:22.847060,International,Nigeria,39.0,BD RESTO,Complete,Pending,130.0,Bank Transfer,2024-11-18 11:04:22.847060,Q4,Completed,15,Fail,No,Team C
+APP-100220,2025-06-25 11:04:22.847060,International,Australia,22.0,Student Registration,Complete,Paid,35.0,PayPal,2025-07-04 11:04:22.847060,Q3,Submitted,0,Pass,No,Team C
+APP-100221,2024-06-04 11:04:22.847060,UK,United Kingdom,50.0,Student Registration,Incomplete,Paid,35.0,Bank Transfer,2024-06-17 11:04:22.847060,Q2,In Review,7,Fail,Yes,Team B
+APP-100222,2025-07-06 11:04:22.847060,UK,United Kingdom,53.0,Body Corporate,Complete,Paid,200.0,PayPal,2025-07-11 11:04:22.847060,Q3,Submitted,0,Pass,No,Team B
+APP-100223,2025-02-28 11:04:22.847060,UK,United Kingdom,37.0,Fully Qualified,Complete,Paid,282.0,PayPal,2025-03-24 11:04:22.847060,Q1,Completed,5,Pass,No,Team B
+APP-100224,2025-09-10 11:04:22.847060,UK,United Kingdom,36.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2025-09-14 11:04:22.847060,Q3,Completed,8,Pass,No,Team C
+APP-100225,2025-03-21 11:04:22.847060,UK,United Kingdom,52.0,Student Registration,Incomplete,Paid,35.0,Bank Transfer,2025-04-14 11:04:22.847060,Q2,Submitted,0,Pass,Yes,
+APP-100226,2025-08-09 11:04:22.847060,International,Pakistan,34.0,Student Registration,Incomplete,Paid,35.0,Bank Transfer,2025-08-29 11:04:22.847060,Q3,Completed,3,Pass,Yes,Team C
+APP-100227,2025-10-13 11:04:22.847060,UK,United Kingdom,51.0,STUDENT RESTO,Complete,Pending,35.0,Bank Transfer,2025-11-05 11:04:22.847060,Q4,Completed,11,Pass,No,Team B
+APP-100228,2024-11-07 11:04:22.847060,International,Brazil,26.0,Student Registration,Incomplete,Pending,35.0,PayPal,2024-11-27 11:04:22.847060,Q4,Completed,9,Pass,Yes,Team B
+APP-100229,2024-12-13 11:04:22.847060,UK,United Kingdom,43.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2025-01-12 11:04:22.847060,Q1,In Review,5,Pass,No,Team C
+APP-100230,2025-04-01 11:04:22.847060,International,Canada,19.0,Fully Qualified,Complete,Pending,211.5,Bank Transfer,2025-04-14 11:04:22.847060,Q2,In Review,5,Pass,No,Team B
+APP-100231,2025-01-10 11:04:22.847060,UK,United Kingdom,26.0,Fully Qualified,Complete,Paid,282.0,Bank Transfer,2025-01-21 11:04:22.847060,Q1,Submitted,0,Pass,No,Team C
+APP-100232,2024-07-31 11:04:22.847060,UK,United Kingdom,26.0,STUDENT RESTO,Complete,Paid,35.0,Bank Transfer,2024-08-28 11:04:22.847060,Q3,In Review,12,Pass,No,Team B
+APP-100233,2024-08-03 11:04:22.847060,UK,United Kingdom,57.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2024-08-15 11:04:22.847060,Q3,Submitted,0,Pass,No,Team A
+APP-100234,2025-04-19 11:04:22.847060,UK,United Kingdom,34.0,Fully Qualified,Incomplete,Paid,211.5,PayPal,2025-05-03 11:04:22.847060,Q2,Completed,9,Pass,Yes,Team A
+APP-100235,2024-07-30 11:04:22.847060,International,Nigeria,18.0,Body Corporate,Complete,Paid,200.0,Bank Transfer,2024-08-26 11:04:22.847060,Q3,Submitted,0,Pass,No,Team B
+APP-100236,2024-07-23 11:04:22.847060,UK,United Kingdom,42.0,STUDENT RESTO,Complete,Pending,35.0,PayPal,2024-08-21 11:04:22.847060,Q3,Completed,16,Pass,No,Team C
+APP-100237,2025-10-03 11:04:22.847060,UK,United Kingdom,57.0,Body Corporate,Complete,Paid,100.0,Bank Transfer,2025-11-01 11:04:22.847060,Q4,Completed,6,Pass,No,Team A
+APP-100238,2025-10-29 11:04:22.847060,UK,United Kingdom,59.0,FQ RESTO,Complete,Pending,117.5,Bank Transfer,2025-11-10 11:04:22.847060,Q4,Completed,15,Fail,No,Team C
+APP-100239,2024-11-10 11:04:22.847060,UK,United Kingdom,42.0,Student Registration,Complete,Paid,35.0,PayPal,2024-11-22 11:04:22.847060,Q4,In Review,5,Pass,No,Team B
+APP-100240,2024-07-30 11:04:22.847060,International,China,56.0,Fully Qualified,Complete,Pending,141.0,Bank Transfer,2024-08-01 11:04:22.847060,Q3,Completed,8,Pass,No,Team C
+APP-100241,2025-11-04 11:04:22.847060,International,France,52.0,Fully Qualified,Complete,Paid,,Bank Transfer,2025-11-25 11:04:22.847060,Q4,Completed,8,Pass,No,Team A
+APP-100242,2024-08-23 11:04:22.847060,International,Australia,20.0,FQ RESTO,Incomplete,Paid,235.0,Bank Transfer,2024-09-22 11:04:22.847060,Q3,Submitted,0,Pass,Yes,Team C
+APP-100243,2024-12-09 11:04:22.847060,UK,United Kingdom,54.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2024-12-30 11:04:22.847060,Q4,In Review,1,Pass,No,Team C
+APP-100244,2024-08-11 11:04:22.847060,UK,United Kingdom,47.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2024-09-07 11:04:22.847060,Q3,Completed,4,Pass,No,Team B
+APP-100245,2024-08-10 11:04:22.847060,International,Brazil,55.0,Fully Qualified,Complete,Paid,141.0,Bank Transfer,2024-08-27 11:04:22.847060,Q3,Submitted,0,Pass,No,Team B
+APP-100246,2025-01-28 11:04:22.847060,UK,United Kingdom,51.0,Student Registration,Complete,Pending,35.0,Bank Transfer,2025-02-01 11:04:22.847060,Q1,Submitted,0,Pass,No,Team B
+APP-100247,2025-07-20 11:04:22.847060,International,Nigeria,29.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2025-08-09 11:04:22.847060,Q3,In Review,3,Fail,No,Team A
+APP-100248,2024-10-02 11:04:22.847060,International,China,36.0,STUDENT RESTO,Complete,Pending,35.0,Bank Transfer,2024-10-29 11:04:22.847060,Q4,Submitted,0,Fail,No,Team A
+APP-100249,2025-02-09 11:04:22.847060,International,Canada,54.0,Fully Qualified,Incomplete,Paid,282.0,Bank Transfer,2025-02-20 11:04:22.847060,Q1,Completed,7,Pass,Yes,Team B
+APP-100250,2024-07-12 11:04:22.847060,UK,United Kingdom,34.0,Body Corporate,Complete,Pending,200.0,Bank Transfer,2024-07-15 11:04:22.847060,Q3,In Review,1,Pass,No,Team B
+APP-100251,2024-08-24 11:04:22.847060,UK,United Kingdom,27.0,BD RESTO,Incomplete,Paid,260.0,Bank Transfer,2024-08-29 11:04:22.847060,Q3,Completed,11,Pass,Yes,Team A
+APP-100252,2025-08-05 11:04:22.847060,International,Pakistan,29.0,Fully Qualified,Incomplete,Paid,141.0,PayPal,2025-08-22 11:04:22.847060,Q3,Completed,6,Pass,Yes,Team A
+APP-100253,2025-11-19 11:04:22.847060,UK,United Kingdom,33.0,Student Registration,Complete,Unpaid,0.0,Bank Transfer,,,Completed,7,Pass,No,Team A
+APP-100254,2025-04-21 11:04:22.847060,UK,United Kingdom,41.0,Student Registration,Incomplete,Paid,35.0,PayPal,2025-05-03 11:04:22.847060,Q2,Completed,9,Pass,Yes,Team A
+APP-100255,2025-02-24 11:04:22.847060,UK,United Kingdom,36.0,Fully Qualified,Complete,Paid,282.0,Bank Transfer,2025-03-12 11:04:22.847060,Q1,Completed,6,Pass,No,Team B
+APP-100256,2024-12-28 11:04:22.847060,International,Nigeria,25.0,Body Corporate,Incomplete,Paid,400.0,PayPal,2025-01-01 11:04:22.847060,Q1,In Review,6,Pass,Yes,Team A
+APP-100257,2025-04-19 11:04:22.847060,International,USA,48.0,Fully Qualified,Complete,Paid,211.5,Bank Transfer,,Q2,Completed,5,Pass,No,Team B
+APP-100258,2025-02-01 11:04:22.847060,UK,United Kingdom,38.0,Student Registration,Incomplete,Paid,35.0,PayPal,2025-02-08 11:04:22.847060,Q1,Completed,5,Fail,Yes,Team C
+APP-100259,2025-02-28 11:04:22.847060,UK,United Kingdom,34.0,Fully Qualified,Incomplete,Pending,282.0,PayPal,2025-03-26 11:04:22.847060,Q1,Completed,9,Fail,Yes,Team C
+APP-100260,2025-07-12 11:04:22.847060,UK,United Kingdom,40.0,STUDENT RESTO,Incomplete,Paid,35.0,Bank Transfer,2025-07-12 11:04:22.847060,Q3,Completed,15,Pass,Yes,Team A
+APP-100261,2024-10-14 11:04:22.847060,International,Pakistan,54.0,FQ RESTO,Complete,Paid,117.5,PayPal,2024-11-07 11:04:22.847060,Q4,In Review,11,Pass,No,Team C
+APP-100262,2025-04-05 11:04:22.847060,UK,United Kingdom,33.0,FQ RESTO,Complete,Paid,352.5,Bank Transfer,2025-04-05 11:04:22.847060,Q2,In Review,11,Fail,No,Team C
+APP-100263,2025-09-13 11:04:22.847060,UK,United Kingdom,23.0,BD RESTO,Complete,Paid,260.0,Bank Transfer,2025-09-22 11:04:22.847060,Q3,Completed,13,Pass,No,Team C
+APP-100264,2025-04-21 11:04:22.847060,International,France,25.0,Fully Qualified,Complete,Paid,211.5,PayPal,2025-05-05 11:04:22.847060,Q2,Submitted,0,Pass,No,Team A
+APP-100265,2024-08-15 11:04:22.847060,International,USA,42.0,BD RESTO,Complete,Pending,260.0,PayPal,2024-09-05 11:04:22.847060,Q3,Completed,11,Pass,No,Team A
+APP-100266,2024-06-11 11:04:22.847060,International,Pakistan,35.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2024-07-04 11:04:22.847060,Q3,In Review,1,Pass,No,Team C
+APP-100267,2025-09-14 11:04:22.847060,International,India,42.0,Body Corporate,Complete,Pending,100.0,Bank Transfer,2025-10-01 11:04:22.847060,Q4,Submitted,0,Pass,No,Team B
+APP-100268,2024-09-12 11:04:22.847060,UK,United Kingdom,29.0,Body Corporate,Incomplete,Paid,200.0,PayPal,2024-09-25 11:04:22.847060,Q3,Submitted,0,Fail,Yes,Team C
+APP-100269,2024-08-16 11:04:22.847060,UK,United Kingdom,32.0,Student Registration,Complete,Paid,35.0,PayPal,2024-09-02 11:04:22.847060,Q3,Submitted,0,Fail,No,Team A
+APP-100270,2025-01-06 11:04:22.847060,International,USA,43.0,BD RESTO,Incomplete,Paid,520.0,PayPal,2025-01-18 11:04:22.847060,Q1,Completed,14,Pass,Yes,Team A
+APP-100271,2025-11-02 11:04:22.847060,International,Australia,58.0,STUDENT RESTO,Complete,Paid,35.0,PayPal,2025-11-28 11:04:22.847060,Q4,In Review,15,Pass,No,Team A
+APP-100272,2025-02-28 11:04:22.847060,International,Germany,43.0,Student Registration,Incomplete,Paid,35.0,Bank Transfer,2025-03-07 11:04:22.847060,Q1,Withdrawn,0,Fail,Yes,Team C
+APP-100273,2024-10-15 11:04:22.847060,International,USA,49.0,FQ RESTO,Incomplete,Paid,117.5,PayPal,2024-10-22 11:04:22.847060,Q4,Completed,12,Pass,Yes,Team B
+APP-100274,2025-05-25 11:04:22.847060,UK,United Kingdom,27.0,Student Registration,Complete,Pending,35.0,Bank Transfer,2025-06-08 11:04:22.847060,Q2,Submitted,0,Fail,No,Team A
+APP-100275,2024-08-11 11:04:22.847060,UK,United Kingdom,33.0,Body Corporate,Complete,Paid,200.0,Bank Transfer,2024-08-22 11:04:22.847060,Q3,Completed,8,Pass,No,Team A
+APP-100276,2025-02-07 11:04:22.847060,International,USA,24.0,Fully Qualified,Complete,Pending,282.0,Bank Transfer,2025-02-11 11:04:22.847060,Q1,Completed,5,Pass,No,Team C
+APP-100277,2025-06-15 11:04:22.847060,UK,United Kingdom,34.0,Fully Qualified,Complete,Paid,211.5,Bank Transfer,2025-06-23 11:04:22.847060,Q2,Completed,4,Pass,No,Team B
+APP-100278,2025-03-20 11:04:22.847060,International,France,40.0,STUDENT RESTO,Complete,Unpaid,0.0,Bank Transfer,,,Submitted,0,Pass,No,Team C
+APP-100279,2024-11-10 11:04:22.847060,International,Nigeria,43.0,FQ RESTO,Complete,Pending,117.5,PayPal,2024-11-16 11:04:22.847060,Q4,Completed,10,Pass,No,Team A
+APP-100280,2025-08-24 11:04:22.847060,International,Pakistan,38.0,BD RESTO,Complete,Paid,260.0,Bank Transfer,2025-09-22 11:04:22.847060,Q3,Completed,11,Pass,No,Team B
+APP-100281,2025-04-07 11:04:22.847060,UK,United Kingdom,39.0,Student Registration,Complete,Pending,35.0,Bank Transfer,2025-05-05 11:04:22.847060,Q2,Submitted,0,Pass,No,Team B
+APP-100282,2024-06-10 11:04:22.847060,UK,United Kingdom,24.0,STUDENT RESTO,Complete,Paid,35.0,PayPal,2024-07-03 11:04:22.847060,Q3,Submitted,0,Pass,No,Team A
+APP-100283,2025-04-04 11:04:22.847060,UK,United Kingdom,31.0,Student Registration,Complete,Pending,35.0,Bank Transfer,2025-04-28 11:04:22.847060,Q2,Completed,4,Pass,No,Team B
+APP-100284,2024-09-16 11:04:22.847060,UK,United Kingdom,32.0,FQ RESTO,Complete,Paid,235.0,Bank Transfer,2024-09-19 11:04:22.847060,Q3,Submitted,0,Fail,No,Team B
+APP-100285,2024-10-17 11:04:22.847060,UK,United Kingdom,24.0,Fully Qualified,Incomplete,Paid,70.5,Bank Transfer,2024-10-18 11:04:22.847060,Q4,Completed,6,Fail,Yes,Team C
+APP-100286,2025-02-27 11:04:22.847060,UK,United Kingdom,26.0,Student Registration,Complete,Pending,35.0,PayPal,2025-03-24 11:04:22.847060,Q1,In Review,7,Pass,No,Team A
+APP-100287,2024-09-28 11:04:22.847060,UK,United Kingdom,25.0,Body Corporate,Incomplete,Paid,100.0,Bank Transfer,2024-10-19 11:04:22.847060,Q4,Completed,7,Pass,Yes,Team A
+APP-100288,2024-09-19 11:04:22.847060,UK,United Kingdom,40.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2024-10-02 11:04:22.847060,Q4,Completed,5,Pass,No,Team A
+APP-100289,2024-11-08 11:04:22.847060,UK,United Kingdom,46.0,Student Registration,Complete,Pending,35.0,Bank Transfer,2024-11-27 11:04:22.847060,Q4,Submitted,0,Pass,No,Team A
+APP-100290,2025-03-07 11:04:22.847060,UK,United Kingdom,35.0,Fully Qualified,Complete,Paid,282.0,Bank Transfer,2025-03-31 11:04:22.847060,Q1,Submitted,0,Fail,No,Team A
+APP-100291,2025-03-17 11:04:22.847060,UK,United Kingdom,48.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2025-04-15 11:04:22.847060,Q2,Completed,4,Pass,No,Team B
+APP-100292,2025-01-03 11:04:22.847060,International,France,47.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2025-01-31 11:04:22.847060,Q1,Completed,8,Pass,No,Team C
+APP-100293,2025-05-19 11:04:22.847060,UK,United Kingdom,56.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2025-06-16 11:04:22.847060,Q2,Completed,8,Fail,No,Team A
+APP-100294,2024-12-27 11:04:22.847060,UK,United Kingdom,13.0,Fully Qualified,Complete,Unpaid,0.0,PayPal,,,In Review,7,Pass,No,Team C
+APP-100295,2025-02-27 11:04:22.847060,UK,United Kingdom,35.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2025-02-27 11:04:22.847060,Q1,In Review,8,Pass,No,Team C
+APP-100296,2025-11-01 11:04:22.847060,International,Pakistan,59.0,Body Corporate,Complete,Paid,100.0,Bank Transfer,2025-11-08 11:04:22.847060,Q4,Submitted,0,Fail,No,Team B
+APP-100297,2025-10-15 11:04:22.847060,UK,United Kingdom,56.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2025-10-21 11:04:22.847060,Q4,Completed,5,Pass,No,Team A
+APP-100298,2025-02-14 11:04:22.847060,UK,United Kingdom,34.0,STUDENT RESTO,Complete,Pending,35.0,Bank Transfer,2025-02-16 11:04:22.847060,Q1,Submitted,0,Fail,No,Team B
+APP-100299,2024-07-24 11:04:22.847060,UK,United Kingdom,31.0,FQ RESTO,Complete,Paid,235.0,PayPal,,Q3,In Review,11,Pass,No,Team A
+APP-100300,2024-09-04 11:04:22.847060,UK,United Kingdom,48.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2024-09-23 11:04:22.847060,Q3,Completed,4,Pass,No,Team B
+APP-100301,2025-08-09 11:04:22.847060,UK,United Kingdom,41.0,BD RESTO,Complete,Unpaid,0.0,Bank Transfer,,,Completed,13,Pass,No,Team C
+APP-100302,2025-03-12 11:04:22.847060,UK,United Kingdom,52.0,FQ RESTO,Incomplete,Paid,470.0,PayPal,2025-03-13 11:04:22.847060,Q1,In Review,17,Fail,Yes,Team A
+APP-100303,2024-07-17 11:04:22.847060,UK,United Kingdom,51.0,STUDENT RESTO,Complete,Paid,35.0,Bank Transfer,2024-07-31 11:04:22.847060,Q3,In Review,12,Pass,No,Team C
+APP-100304,2024-06-05 11:04:22.847060,International,Brazil,20.0,Body Corporate,Complete,Paid,300.0,Bank Transfer,2024-06-24 11:04:22.847060,Q2,Completed,6,Pass,No,Team C
+APP-100305,2025-05-09 11:04:22.847060,International,China,54.0,Student Registration,Incomplete,Paid,35.0,Bank Transfer,2025-05-30 11:04:22.847060,Q2,Completed,6,Pass,Yes,Team B
+APP-100306,2024-10-13 11:04:22.847060,UK,United Kingdom,57.0,Body Corporate,Complete,,100.0,Bank Transfer,2024-11-04 11:04:22.847060,Q4,In Review,2,Pass,No,Team A
+APP-100307,2025-02-25 11:04:22.847060,UK,United Kingdom,43.0,Body Corporate,Complete,Paid,400.0,Bank Transfer,2025-03-24 11:04:22.847060,Q1,Completed,4,Pass,No,Team C
+APP-100308,2024-11-14 11:04:22.847060,International,China,40.0,Body Corporate,Complete,Pending,100.0,Bank Transfer,2024-11-15 11:04:22.847060,Q4,Completed,6,Pass,No,Team B
+APP-100309,2025-08-28 11:04:22.847060,UK,United Kingdom,56.0,Fully Qualified,Complete,Paid,141.0,Bank Transfer,2025-09-04 11:04:22.847060,Q3,In Review,7,Pass,No,Team A
+APP-100310,2025-08-13 11:04:22.847060,UK,United Kingdom,32.0,FQ RESTO,Complete,Pending,235.0,PayPal,2025-09-05 11:04:22.847060,Q3,In Review,14,Pass,No,Team A
+APP-100311,2024-06-11 11:04:22.847060,UK,United Kingdom,21.0,STUDENT RESTO,Complete,Paid,35.0,Bank Transfer,2024-06-12 11:04:22.847060,Q2,Completed,14,Pass,No,Team C
+APP-100312,2024-09-24 11:04:22.847060,UK,United Kingdom,46.0,Student Registration,Complete,Pending,35.0,Bank Transfer,2024-10-06 11:04:22.847060,Q4,Completed,9,Pass,No,Team A
+APP-100313,2024-08-18 11:04:22.847060,International,USA,39.0,Student Registration,Complete,Pending,35.0,Bank Transfer,2024-09-01 11:04:22.847060,Q3,Submitted,0,Pass,No,Team C
+APP-100314,2024-11-01 11:04:22.847060,International,Germany,42.0,Student Registration,Incomplete,Paid,35.0,Bank Transfer,2024-11-08 11:04:22.847060,Q4,Completed,4,Fail,Yes,Team A
+APP-100315,2024-07-08 11:04:22.847060,International,Pakistan,30.0,FQ RESTO,Incomplete,Paid,235.0,Bank Transfer,2024-07-25 11:04:22.847060,Q3,Completed,14,Pass,Yes,Team B
+APP-100316,2025-06-15 11:04:22.847060,UK,United Kingdom,35.0,Body Corporate,Complete,Paid,300.0,PayPal,2025-06-21 11:04:22.847060,Q2,In Review,4,Fail,No,Team C
+APP-100317,2024-10-31 11:04:22.847060,UK,United Kingdom,50.0,Body Corporate,Complete,Pending,100.0,PayPal,2024-11-24 11:04:22.847060,Q4,Completed,4,Pass,No,Team C
+APP-100318,2025-08-16 11:04:22.847060,UK,United Kingdom,33.0,Fully Qualified,Complete,Pending,141.0,PayPal,2025-09-12 11:04:22.847060,Q3,Completed,6,Pass,No,Team A
+APP-100319,2024-10-10 11:04:22.847060,UK,United Kingdom,59.0,Body Corporate,Complete,Paid,100.0,PayPal,2024-11-03 11:04:22.847060,Q4,Submitted,0,Pass,No,Team A
+APP-100320,2024-07-14 11:04:22.847060,UK,United Kingdom,19.0,Fully Qualified,Complete,Paid,141.0,Bank Transfer,2024-07-15 11:04:22.847060,Q3,In Review,6,Pass,No,Team C
+APP-100321,2025-04-13 11:04:22.847060,International,China,52.0,Fully Qualified,Complete,Paid,211.5,Bank Transfer,2025-04-17 11:04:22.847060,Q2,In Review,1,Pass,No,Team A
+APP-100322,2025-06-10 11:04:22.847060,International,China,59.0,BD RESTO,Incomplete,Pending,390.0,Bank Transfer,2025-06-26 11:04:22.847060,Q2,Completed,13,Pass,Yes,Team B
+APP-100323,2024-07-12 11:04:22.847060,UK,United Kingdom,51.0,STUDENT RESTO,Complete,Paid,35.0,Bank Transfer,2024-07-21 11:04:22.847060,Q3,Withdrawn,0,Pass,No,Team A
+APP-100324,2025-06-03 11:04:22.847060,International,Brazil,47.0,STUDENT RESTO,Complete,Paid,35.0,PayPal,2025-06-10 11:04:22.847060,Q2,In Review,12,Pass,No,Team B
+APP-100325,2025-01-03 11:04:22.847060,International,Canada,30.0,STUDENT RESTO,Complete,Paid,35.0,Bank Transfer,2025-01-29 11:04:22.847060,Q1,Completed,12,Pass,No,Team B
+APP-100326,2025-02-12 11:04:22.847060,UK,United Kingdom,30.0,Fully Qualified,Complete,Paid,282.0,PayPal,2025-03-13 11:04:22.847060,Q1,Completed,3,Pass,No,Team B
+APP-100327,2024-09-15 11:04:22.847060,UK,United Kingdom,35.0,Fully Qualified,Incomplete,Pending,70.5,Bank Transfer,2024-10-08 11:04:22.847060,Q4,Completed,3,Pass,Yes,Team B
+APP-100328,2025-05-30 11:04:22.847060,UK,United Kingdom,49.0,BD RESTO,Complete,Paid,390.0,PayPal,2025-06-17 11:04:22.847060,Q2,In Review,11,Pass,No,Team B
+APP-100329,2025-07-23 11:04:22.847060,UK,United Kingdom,49.0,STUDENT RESTO,Complete,Paid,35.0,PayPal,2025-08-02 11:04:22.847060,Q3,In Review,17,Pass,No,Team A
+APP-100330,2024-11-07 11:04:22.847060,UK,United Kingdom,52.0,Student Registration,Complete,Paid,35.0,PayPal,2024-11-25 11:04:22.847060,Q4,In Review,2,Pass,No,Team B
+APP-100331,2025-01-30 11:04:22.847060,International,Brazil,,Fully Qualified,Complete,Paid,282.0,PayPal,2025-02-18 11:04:22.847060,Q1,Completed,9,Pass,No,Team A
+APP-100332,2024-11-15 11:04:22.847060,UK,United Kingdom,46.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2024-12-09 11:04:22.847060,Q4,Submitted,0,Pass,No,Team B
+APP-100333,2024-11-30 11:04:22.847060,UK,United Kingdom,46.0,Body Corporate,Complete,Unpaid,0.0,PayPal,,,Completed,7,Pass,No,Team C
+APP-100334,2025-07-29 11:04:22.847060,UK,United Kingdom,33.0,Fully Qualified,Complete,Pending,141.0,PayPal,2025-08-19 11:04:22.847060,Q3,,9,Pass,No,Team B
+APP-100335,2024-06-27 11:04:22.847060,UK,United Kingdom,27.0,Fully Qualified,Complete,Paid,141.0,PayPal,2024-07-23 11:04:22.847060,Q3,In Review,2,Pass,No,Team C
+APP-100336,2024-12-02 11:04:22.847060,International,Germany,47.0,Student Registration,Complete,Paid,35.0,PayPal,2024-12-12 11:04:22.847060,Q4,Completed,4,Pass,No,Team B
+APP-100337,2025-05-08 11:04:22.847060,International,France,42.0,Fully Qualified,Complete,Pending,211.5,PayPal,2025-05-15 11:04:22.847060,Q2,Completed,3,Pass,No,Team B
+APP-100338,2025-07-28 11:04:22.847060,UK,United Kingdom,56.0,FQ RESTO,Complete,Paid,235.0,PayPal,2025-08-06 11:04:22.847060,Q3,Submitted,0,Pass,No,Team B
+APP-100339,2025-02-11 11:04:22.847060,UK,United Kingdom,37.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2025-03-11 11:04:22.847060,Q1,In Review,3,,No,Team C
+APP-100340,2025-03-02 11:04:22.847060,UK,United Kingdom,22.0,Body Corporate,Complete,Pending,400.0,PayPal,2025-03-06 11:04:22.847060,Q1,Withdrawn,0,Fail,No,Team C
+APP-100341,2024-11-12 11:04:22.847060,UK,United Kingdom,82.0,Body Corporate,Incomplete,Pending,100.0,Bank Transfer,2024-12-03 11:04:22.847060,Q4,In Review,5,Pass,Yes,Team B
+APP-100342,2024-09-20 11:04:22.847060,UK,United Kingdom,47.0,FQ RESTO,Incomplete,Unpaid,0.0,Bank Transfer,,,In Review,14,Fail,Yes,Team A
+APP-100343,2025-06-28 11:04:22.847060,UK,United Kingdom,20.0,Student Registration,Incomplete,Unpaid,0.0,Bank Transfer,,,Completed,4,Pass,Yes,Team B
+APP-100344,2024-07-11 11:04:22.847060,UK,United Kingdom,31.0,STUDENT RESTO,Complete,Pending,35.0,Bank Transfer,2024-07-27 11:04:22.847060,Q3,Submitted,0,Pass,No,Team C
+APP-100345,,UK,United Kingdom,47.0,Body Corporate,Complete,Paid,100.0,Bank Transfer,2025-10-03 11:04:22.847060,Q4,In Review,8,Pass,No,Team B
+APP-100346,2025-01-15 11:04:22.847060,UK,United Kingdom,21.0,STUDENT RESTO,Complete,Paid,35.0,Bank Transfer,2025-01-28 11:04:22.847060,Q1,In Review,16,Pass,No,Team C
+APP-100347,2024-12-23 11:04:22.847060,UK,United Kingdom,35.0,STUDENT RESTO,Complete,Paid,35.0,Bank Transfer,2025-01-01 11:04:22.847060,Q1,In Review,12,Pass,No,Team C
+APP-100348,2025-09-16 11:04:22.847060,UK,United Kingdom,54.0,Student Registration,Incomplete,Paid,35.0,Bank Transfer,2025-09-24 11:04:22.847060,Q3,In Review,9,Pass,Yes,Team C
+APP-100349,2025-05-26 11:04:22.847060,UK,United Kingdom,42.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2025-05-27 11:04:22.847060,Q2,Submitted,0,Pass,No,Team B
+APP-100350,2025-04-10 11:04:22.847060,UK,United Kingdom,18.0,Student Registration,Complete,Paid,35.0,PayPal,2025-04-27 11:04:22.847060,Q2,In Review,11,Pass,No,Team C
+APP-100351,2025-01-21 11:04:22.847060,International,Brazil,77.0,Fully Qualified,Complete,Paid,282.0,PayPal,2025-02-20 11:04:22.847060,Q1,Submitted,0,Pass,No,Team C
+APP-100352,2025-01-16 11:04:22.847060,International,France,26.0,Student Registration,Complete,Paid,35.0,PayPal,2025-02-03 11:04:22.847060,Q1,Completed,5,Pass,No,Team B
+APP-100353,2024-06-26 11:04:22.847060,UK,United Kingdom,32.0,Student Registration,Complete,Paid,35.0,PayPal,2024-07-24 11:04:22.847060,Q3,In Review,5,Pass,No,Team C
+APP-100354,2024-12-16 11:04:22.847060,UK,United Kingdom,41.0,Fully Qualified,Complete,Paid,282.0,PayPal,2025-01-08 11:04:22.847060,Q1,In Review,2,Pass,No,Team B
+APP-100355,2025-07-15 11:04:22.847060,UK,United Kingdom,21.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2025-08-13 11:04:22.847060,Q3,Completed,3,Pass,No,Team C
+APP-100356,2025-05-04 11:04:22.847060,UK,United Kingdom,29.0,Student Registration,Complete,Pending,35.0,PayPal,2025-05-09 11:04:22.847060,Q2,Completed,6,Fail,No,Team A
+APP-100357,2025-03-14 11:04:22.847060,UK,United Kingdom,54.0,Fully Qualified,Complete,Paid,211.5,PayPal,2025-04-03 11:04:22.847060,Q2,Submitted,0,Pass,No,Team A
+APP-100358,2024-08-12 11:04:22.847060,International,China,54.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2024-09-02 11:04:22.847060,Q3,Completed,3,Fail,No,Team C
+APP-100359,2025-03-14 11:04:22.847060,UK,United Kingdom,23.0,Fully Qualified,Incomplete,Pending,282.0,Bank Transfer,2025-03-27 11:04:22.847060,Q1,In Review,2,Pass,Yes,Team A
+APP-100360,2025-05-27 11:04:22.847060,UK,United Kingdom,56.0,Fully Qualified,Incomplete,Paid,211.5,PayPal,2025-06-13 11:04:22.847060,Q2,Submitted,0,Pass,Yes,Team B
+APP-100361,2025-11-05 11:04:22.847060,UK,United Kingdom,41.0,Fully Qualified,Complete,Paid,70.5,Bank Transfer,2025-11-20 11:04:22.847060,Q4,Completed,3,Pass,No,Team A
+APP-100362,2025-07-16 11:04:22.847060,UK,United Kingdom,28.0,FQ RESTO,Complete,Paid,235.0,PayPal,2025-07-17 11:04:22.847060,Q3,Completed,11,Pass,No,Team C
+APP-100363,2025-05-07 11:04:22.847060,UK,United Kingdom,30.0,Fully Qualified,Complete,Paid,211.5,Bank Transfer,2025-05-18 11:04:22.847060,Q2,In Review,5,Fail,No,Team C
+APP-100364,2024-06-30 11:04:22.847060,International,France,51.0,Fully Qualified,Complete,Unpaid,0.0,Bank Transfer,,,In Review,8,Pass,No,Team B
+APP-100365,2024-09-28 11:04:22.847060,UK,United Kingdom,42.0,Fully Qualified,Complete,Paid,70.5,Bank Transfer,2024-10-28 11:04:22.847060,Q4,Completed,4,Pass,No,Team C
+APP-100366,2025-02-24 11:04:22.847060,International,China,24.0,FQ RESTO,Incomplete,Paid,470.0,Bank Transfer,2025-03-16 11:04:22.847060,Q1,In Review,14,Pass,Yes,Team B
+APP-100367,2024-12-01 11:04:22.847060,International,Germany,21.0,FQ RESTO,Complete,Paid,117.5,Bank Transfer,2024-12-22 11:04:22.847060,Q4,Completed,14,Pass,No,Team A
+APP-100368,2025-02-28 11:04:22.847060,UK,United Kingdom,25.0,FQ RESTO,Incomplete,Paid,470.0,PayPal,2025-03-12 11:04:22.847060,Q1,In Review,10,Fail,Yes,Team A
+APP-100369,2024-07-11 11:04:22.847060,UK,United Kingdom,37.0,Body Corporate,Complete,Paid,200.0,PayPal,2024-08-05 11:04:22.847060,Q3,Completed,8,Pass,No,Team B
+APP-100370,2024-09-21 11:04:22.847060,UK,United Kingdom,46.0,Student Registration,Complete,Paid,35.0,PayPal,2024-10-07 11:04:22.847060,Q4,Completed,7,Pass,No,Team B
+APP-100371,2025-08-20 11:04:22.847060,UK,United Kingdom,27.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2025-08-30 11:04:22.847060,Q3,Completed,3,Pass,No,Team C
+APP-100372,2025-05-21 11:04:22.847060,UK,United Kingdom,51.0,Student Registration,Incomplete,Paid,35.0,PayPal,2025-06-12 11:04:22.847060,Q2,Completed,7,Pass,Yes,Team A
+APP-100373,2025-04-19 11:04:22.847060,International,USA,43.0,STUDENT RESTO,Complete,Paid,35.0,Bank Transfer,2025-05-02 11:04:22.847060,Q2,Completed,15,Pass,No,Team B
+APP-100374,2025-08-22 11:04:22.847060,UK,United Kingdom,58.0,Body Corporate,Complete,Paid,200.0,Bank Transfer,2025-09-04 11:04:22.847060,Q3,In Review,5,Pass,No,Team A
+APP-100375,2025-11-07 11:04:22.847060,UK,United Kingdom,20.0,BD RESTO,Complete,Paid,130.0,Bank Transfer,2025-11-11 11:04:22.847060,Q4,In Review,13,Pass,No,Team B
+APP-100376,2024-09-28 11:04:22.847060,International,France,23.0,Fully Qualified,Complete,Pending,70.5,Bank Transfer,2024-10-07 11:04:22.847060,Q4,In Review,10,Pass,No,Team A
+APP-100377,2025-07-01 11:04:22.847060,UK,United Kingdom,22.0,FQ RESTO,Complete,Paid,235.0,Bank Transfer,2025-07-13 11:04:22.847060,Q3,Completed,16,Pass,No,Team C
+APP-100378,2024-12-13 11:04:22.847060,International,India,22.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2024-12-18 11:04:22.847060,Q4,Completed,6,Pass,No,Team A
+APP-100379,2025-02-17 11:04:22.847060,UK,United Kingdom,40.0,Student Registration,Complete,Paid,35.0,PayPal,2025-03-13 11:04:22.847060,Q1,In Review,10,Pass,No,Team A
+APP-100380,2024-07-17 11:04:22.847060,UK,United Kingdom,26.0,Fully Qualified,Complete,Paid,141.0,PayPal,2024-08-03 11:04:22.847060,Q3,Submitted,0,Pass,No,Team A
+APP-100381,2025-08-22 11:04:22.847060,International,Pakistan,52.0,Body Corporate,Complete,Pending,200.0,Bank Transfer,2025-09-06 11:04:22.847060,Q3,In Review,1,Pass,No,Team A
+APP-100382,2024-06-03 11:04:22.847060,UK,United Kingdom,37.0,Fully Qualified,Complete,Paid,211.5,Bank Transfer,2024-06-10 11:04:22.847060,Q2,Completed,6,Pass,No,Team A
+APP-100383,2025-11-16 11:04:22.847060,International,China,59.0,FQ RESTO,Complete,Pending,117.5,Bank Transfer,2025-12-13 11:04:22.847060,Q4,In Review,11,Pass,No,Team C
+APP-100384,2024-12-20 11:04:22.847060,International,USA,52.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2024-12-27 11:04:22.847060,Q4,Completed,5,Pass,No,Team B
+,2025-06-09 11:04:22.847060,International,India,35.0,Body Corporate,Complete,Pending,300.0,PayPal,2025-06-18 11:04:22.847060,Q2,Withdrawn,0,Pass,No,Team A
+APP-100386,2025-08-17 11:04:22.847060,UK,United Kingdom,34.0,Fully Qualified,Complete,Paid,141.0,Bank Transfer,2025-09-13 11:04:22.847060,Q3,Submitted,0,Pass,No,Team C
+APP-100387,2024-08-12 11:04:22.847060,UK,United Kingdom,41.0,Student Registration,Incomplete,Pending,35.0,PayPal,2024-09-03 11:04:22.847060,Q3,In Review,1,Pass,Yes,Team A
+APP-100388,2025-05-06 11:04:22.847060,International,Brazil,20.0,FQ RESTO,Complete,Paid,352.5,PayPal,2025-05-10 11:04:22.847060,Q2,In Review,15,Pass,No,Team A
+APP-100389,2025-04-19 11:04:22.847060,International,Brazil,49.0,BD RESTO,Complete,Paid,390.0,Bank Transfer,2025-05-14 11:04:22.847060,Q2,In Review,17,Pass,No,Team B
+APP-100390,2024-10-07 11:04:22.847060,International,Canada,52.0,BD RESTO,Complete,Paid,130.0,PayPal,2024-10-21 11:04:22.847060,Q4,Submitted,0,Pass,No,Team A
+APP-100391,2025-04-05 11:04:22.847060,UK,United Kingdom,55.0,FQ RESTO,Complete,Paid,352.5,Bank Transfer,2025-05-04 11:04:22.847060,Q2,Submitted,0,Pass,No,Team C
+APP-100392,2025-11-03 11:04:22.847060,UK,United Kingdom,30.0,BD RESTO,Complete,Unpaid,0.0,Bank Transfer,,,Completed,16,Pass,No,Team C
+APP-100393,2025-04-14 11:04:22.847060,International,France,42.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2025-04-15 11:04:22.847060,Q2,In Review,4,Pass,No,Team B
+APP-100394,2025-07-25 11:04:22.847060,UK,United Kingdom,26.0,BD RESTO,Complete,Paid,260.0,Bank Transfer,2025-08-11 11:04:22.847060,Q3,In Review,11,Pass,No,Team A
+APP-100395,2025-05-02 11:04:22.847060,International,France,21.0,Fully Qualified,Complete,Paid,211.5,Bank Transfer,2025-05-15 11:04:22.847060,Q2,Completed,4,Pass,No,Team C
+APP-100396,2025-07-19 11:04:22.847060,International,Pakistan,31.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2025-08-18 11:04:22.847060,Q3,Completed,4,Pass,No,Team A
+APP-100397,2025-03-31 11:04:22.847060,UK,United Kingdom,54.0,Student Registration,Complete,Paid,35.0,PayPal,2025-04-13 11:04:22.847060,Q2,Submitted,0,Pass,No,Team A
+APP-100398,2024-10-10 11:04:22.847060,International,India,51.0,BD RESTO,Complete,Paid,130.0,PayPal,2024-10-27 11:04:22.847060,Q4,Completed,16,Pass,No,Team A
+APP-100399,2024-12-15 11:04:22.847060,International,USA,28.0,BD RESTO,Complete,Paid,130.0,PayPal,2024-12-31 11:04:22.847060,Q4,In Review,15,Pass,No,Team B
+APP-100400,2025-08-06 11:04:22.847060,UK,United Kingdom,58.0,Student Registration,Complete,Unpaid,0.0,Bank Transfer,,,Completed,9,Pass,No,Team A
+APP-100401,2025-06-25 11:04:22.847060,International,Pakistan,20.0,BD RESTO,Complete,Paid,390.0,PayPal,2025-06-29 11:04:22.847060,Q2,Completed,17,Pass,No,Team C
+APP-100402,2024-11-27 11:04:22.847060,UK,United Kingdom,45.0,STUDENT RESTO,Incomplete,Paid,35.0,PayPal,2024-12-09 11:04:22.847060,Q4,Completed,10,Pass,Yes,Team A
+APP-100403,2025-04-06 11:04:22.847060,International,China,46.0,Student Registration,Complete,Pending,35.0,PayPal,2025-04-13 11:04:22.847060,Q2,In Review,1,Pass,No,Team C
+APP-100404,2025-07-22 11:04:22.847060,UK,United Kingdom,26.0,Student Registration,Complete,Paid,35.0,PayPal,2025-07-30 11:04:22.847060,Q3,Completed,9,Pass,No,Team A
+APP-100405,2024-06-02 11:04:22.847060,International,Canada,20.0,BD RESTO,Complete,Paid,390.0,PayPal,2024-06-08 11:04:22.847060,Q2,Submitted,0,Pass,No,Team C
+APP-100406,2025-04-09 11:04:22.847060,UK,United Kingdom,42.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2025-04-19 11:04:22.847060,Q2,Submitted,0,Pass,No,Team C
+APP-100407,2025-03-22 11:04:22.847060,UK,United Kingdom,51.0,Body Corporate,Complete,Paid,300.0,PayPal,2025-04-11 11:04:22.847060,Q2,In Review,4,Pass,No,Team A
+APP-100408,2025-01-03 11:04:22.847060,International,Pakistan,29.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2025-01-05 11:04:22.847060,Q1,Submitted,0,Fail,No,Team A
+APP-100409,2025-08-16 11:04:22.847060,UK,United Kingdom,59.0,Fully Qualified,Complete,Pending,141.0,PayPal,2025-09-14 11:04:22.847060,Q3,In Review,7,Pass,No,Team C
+APP-100410,2025-04-27 11:04:22.847060,UK,United Kingdom,26.0,BD RESTO,Complete,Paid,390.0,Bank Transfer,2025-05-11 11:04:22.847060,Q2,Completed,15,Fail,No,Team B
+APP-100411,2025-09-21 11:04:22.847060,International,Germany,32.0,Body Corporate,Complete,Paid,100.0,Bank Transfer,2025-10-18 11:04:22.847060,Q4,Completed,5,Pass,No,Team A
+APP-100412,2025-08-28 11:04:22.847060,International,Nigeria,57.0,FQ RESTO,Complete,Pending,235.0,Bank Transfer,2025-09-08 11:04:22.847060,Q3,In Review,14,Fail,No,Team B
+APP-100413,2025-08-28 11:04:22.847060,UK,United Kingdom,42.0,,Complete,Unpaid,0.0,PayPal,,,In Review,4,Pass,No,Team A
+APP-100414,2025-01-06 11:04:22.847060,UK,United Kingdom,22.0,BD RESTO,Incomplete,Paid,520.0,Bank Transfer,2025-01-08 11:04:22.847060,Q1,In Review,11,Pass,Yes,Team A
+APP-100415,2025-11-07 11:04:22.847060,UK,United Kingdom,28.0,Body Corporate,Complete,Paid,100.0,Bank Transfer,2025-11-24 11:04:22.847060,Q4,In Review,8,Pass,No,Team A
+APP-100416,2025-09-29 11:04:22.847060,UK,United Kingdom,51.0,Student Registration,Complete,Paid,35.0,PayPal,2025-10-22 11:04:22.847060,Q4,Submitted,0,Pass,No,Team A
+APP-100417,2024-11-22 11:04:22.847060,UK,United Kingdom,41.0,Fully Qualified,Incomplete,Unpaid,0.0,PayPal,,,Completed,3,Pass,Yes,Team B
+APP-100418,2024-08-27 11:04:22.847060,International,Pakistan,32.0,Student Registration,Complete,Pending,35.0,Bank Transfer,2024-09-22 11:04:22.847060,Q3,In Review,7,Pass,No,Team A
+APP-100419,2025-03-19 11:04:22.847060,International,Canada,55.0,FQ RESTO,Complete,Paid,470.0,Bank Transfer,2025-03-25 11:04:22.847060,Q1,In Review,12,Pass,No,Team C
+APP-100420,2025-11-11 11:04:22.847060,International,Australia,25.0,Fully Qualified,Complete,Paid,70.5,PayPal,2025-11-12 11:04:22.847060,Q4,Submitted,0,Pass,No,Team C
+APP-100421,2025-05-11 11:04:22.847060,International,Germany,22.0,Body Corporate,Incomplete,Paid,300.0,PayPal,2025-05-19 11:04:22.847060,Q2,Completed,8,Pass,Yes,Team B
+APP-100422,2024-09-05 11:04:22.847060,UK,United Kingdom,43.0,Student Registration,Complete,Pending,35.0,Bank Transfer,2024-09-17 11:04:22.847060,Q3,Completed,6,Pass,No,Team A
+APP-100423,2025-01-28 11:04:22.847060,UK,United Kingdom,35.0,BD RESTO,Complete,Paid,520.0,PayPal,2025-02-18 11:04:22.847060,Q1,Completed,14,Fail,No,Team C
+APP-100424,2025-04-15 11:04:22.847060,UK,United Kingdom,23.0,FQ RESTO,Complete,Paid,352.5,Bank Transfer,2025-05-04 11:04:22.847060,Q2,Completed,17,Pass,No,Team B
+APP-100425,2025-01-18 11:04:22.847060,UK,United Kingdom,54.0,Fully Qualified,Incomplete,Unpaid,0.0,PayPal,,,In Review,11,Fail,Yes,Team A
+APP-100426,2024-12-22 11:04:22.847060,UK,United Kingdom,30.0,FQ RESTO,Complete,Paid,470.0,PayPal,2025-01-10 11:04:22.847060,Q1,In Review,15,Pass,No,Team C
+APP-100427,2024-10-30 11:04:22.847060,International,Nigeria,45.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2024-10-31 11:04:22.847060,Q4,Completed,9,Pass,No,Team C
+APP-100428,2024-06-27 11:04:22.847060,UK,United Kingdom,22.0,Fully Qualified,Complete,Paid,141.0,Bank Transfer,2024-07-24 11:04:22.847060,Q3,In Review,3,Pass,No,Team B
+APP-100429,2024-07-19 11:04:22.847060,UK,United Kingdom,30.0,FQ RESTO,Complete,Paid,235.0,PayPal,2024-07-21 11:04:22.847060,Q3,Completed,17,Pass,No,Team A
+APP-100430,2025-02-07 11:04:22.847060,UK,United Kingdom,34.0,Fully Qualified,Complete,Paid,282.0,PayPal,2025-02-13 11:04:22.847060,Q1,Submitted,0,Pass,No,Team A
+APP-100431,2025-10-01 11:04:22.847060,International,Germany,57.0,STUDENT RESTO,Incomplete,Paid,35.0,Bank Transfer,2025-10-26 11:04:22.847060,Q4,Submitted,0,Pass,Yes,Team C
+APP-100432,2024-08-15 11:04:22.847060,UK,United Kingdom,49.0,Student Registration,Complete,Paid,35.0,PayPal,2024-09-08 11:04:22.847060,Q3,Completed,9,Pass,No,Team C
+APP-100433,2025-09-11 11:04:22.847060,UK,United Kingdom,46.0,Student Registration,Complete,Pending,35.0,PayPal,2025-09-29 11:04:22.847060,Q3,Completed,3,Fail,No,Team C
+APP-100434,2025-07-31 11:04:22.847060,UK,United Kingdom,20.0,STUDENT RESTO,Complete,Paid,35.0,Bank Transfer,2025-08-23 11:04:22.847060,Q3,Completed,15,Pass,No,Team A
+APP-100435,2024-12-18 11:04:22.847060,International,India,57.0,Student Registration,Incomplete,Paid,35.0,PayPal,2025-01-08 11:04:22.847060,Q1,Submitted,0,Pass,Yes,Team B
+APP-100436,2025-06-30 11:04:22.847060,UK,United Kingdom,51.0,STUDENT RESTO,Complete,Paid,35.0,Bank Transfer,2025-07-17 11:04:22.847060,,Completed,16,Pass,No,Team B
+APP-100437,2025-10-21 11:04:22.847060,International,Brazil,57.0,STUDENT RESTO,Complete,Pending,35.0,PayPal,2025-10-27 11:04:22.847060,Q4,Submitted,0,Pass,No,Team A
+APP-100438,2025-07-16 11:04:22.847060,International,USA,44.0,Student Registration,Incomplete,Pending,35.0,Bank Transfer,2025-07-31 11:04:22.847060,Q3,Submitted,0,Pass,Yes,Team B
+APP-100439,2025-02-06 11:04:22.847060,UK,United Kingdom,30.0,Fully Qualified,Incomplete,Paid,282.0,Bank Transfer,2025-02-12 11:04:22.847060,Q1,In Review,3,Pass,Yes,Team C
+APP-100440,2024-10-31 11:04:22.847060,UK,United Kingdom,50.0,Student Registration,Incomplete,Paid,35.0,Bank Transfer,2024-11-27 11:04:22.847060,Q4,Submitted,0,Pass,Yes,Team B
+APP-100441,2024-06-07 11:04:22.847060,International,Australia,23.0,Fully Qualified,Incomplete,Paid,141.0,PayPal,2024-07-06 11:04:22.847060,Q3,In Review,9,Pass,Yes,Team B
+APP-100442,2024-09-19 11:04:22.847060,UK,United Kingdom,41.0,Student Registration,Complete,Paid,35.0,PayPal,2024-09-29 11:04:22.847060,Q3,In Review,2,Pass,No,Team B
+APP-100443,2025-08-11 11:04:22.847060,UK,United Kingdom,36.0,Student Registration,Complete,Paid,35.0,PayPal,2025-08-20 11:04:22.847060,Q3,In Review,1,Pass,No,Team C
+APP-100444,2025-01-12 11:04:22.847060,International,China,33.0,Fully Qualified,Complete,Pending,282.0,PayPal,2025-02-11 11:04:22.847060,Q1,Submitted,0,Fail,No,Team A
+APP-100445,2024-11-29 11:04:22.847060,International,Brazil,57.0,Fully Qualified,Incomplete,Pending,70.5,Bank Transfer,2024-12-28 11:04:22.847060,Q4,Submitted,0,Pass,Yes,Team C
+APP-100446,2025-11-14 11:04:22.847060,International,India,45.0,STUDENT RESTO,Complete,Paid,35.0,PayPal,2025-11-14 11:04:22.847060,Q4,Submitted,0,Pass,No,Team A
+APP-100447,2025-09-20 11:04:22.847060,International,Brazil,50.0,FQ RESTO,Complete,Pending,235.0,Bank Transfer,2025-09-26 11:04:22.847060,Q3,Submitted,0,,No,Team A
+APP-100448,2024-07-23 11:04:22.847060,UK,United Kingdom,58.0,,Complete,Unpaid,0.0,PayPal,,,Completed,4,Fail,No,Team A
+APP-100449,2025-02-12 11:04:22.847060,UK,United Kingdom,30.0,Fully Qualified,Complete,Paid,282.0,Bank Transfer,2025-03-13 11:04:22.847060,Q1,In Review,5,Pass,No,Team B
+APP-100450,2024-10-04 11:04:22.847060,International,China,42.0,FQ RESTO,Complete,Paid,117.5,PayPal,2024-10-10 11:04:22.847060,Q4,In Review,15,Pass,No,Team B
+APP-100451,2025-09-12 11:04:22.847060,UK,United Kingdom,59.0,Fully Qualified,Incomplete,Unpaid,0.0,PayPal,,,In Review,7,Pass,Yes,Team A
+APP-100452,2024-10-16 11:04:22.847060,UK,United Kingdom,53.0,BD RESTO,Incomplete,Paid,130.0,PayPal,2024-11-15 11:04:22.847060,Q4,Completed,13,Pass,Yes,Team A
+APP-100453,2025-09-20 11:04:22.847060,International,Pakistan,44.0,STUDENT RESTO,Complete,Unpaid,0.0,Bank Transfer,,,Completed,13,Pass,No,Team B
+APP-100454,2025-04-22 11:04:22.847060,UK,United Kingdom,55.0,Fully Qualified,Complete,Unpaid,0.0,Bank Transfer,,,Completed,4,Pass,No,Team C
+APP-100455,2025-08-29 11:04:22.847060,UK,United Kingdom,24.0,Body Corporate,Complete,Paid,200.0,Bank Transfer,2025-09-21 11:04:22.847060,Q3,Completed,3,Pass,No,Team A
+APP-100456,2025-10-31 11:04:22.847060,UK,United Kingdom,22.0,FQ RESTO,Complete,Pending,117.5,PayPal,2025-11-03 11:04:22.847060,Q4,In Review,14,Pass,No,Team C
+APP-100457,2025-08-12 11:04:22.847060,UK,United Kingdom,48.0,STUDENT RESTO,Incomplete,Pending,35.0,Bank Transfer,2025-09-04 11:04:22.847060,Q3,Completed,15,Pass,Yes,Team B
+APP-100458,2025-09-01 11:04:22.847060,UK,,40.0,BD RESTO,Complete,Paid,260.0,PayPal,2025-09-25 11:04:22.847060,Q3,Completed,15,Pass,No,Team A
+APP-100459,2024-11-11 11:04:22.847060,UK,United Kingdom,59.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2024-11-26 11:04:22.847060,,In Review,3,Pass,No,Team C
+APP-100460,2025-10-01 11:04:22.847060,UK,United Kingdom,27.0,Fully Qualified,Incomplete,Paid,70.5,Bank Transfer,2025-10-30 11:04:22.847060,Q4,In Review,5,Pass,Yes,Team C
+APP-100461,2025-09-05 11:04:22.847060,UK,United Kingdom,49.0,Student Registration,Complete,Paid,35.0,PayPal,2025-09-12 11:04:22.847060,Q3,In Review,4,Fail,No,Team C
+APP-100462,2025-02-22 11:04:22.847060,International,Pakistan,47.0,BD RESTO,Complete,Paid,520.0,Bank Transfer,2025-03-16 11:04:22.847060,Q1,Completed,16,Pass,No,Team B
+APP-100463,2025-02-10 11:04:22.847060,UK,United Kingdom,56.0,Student Registration,Complete,Paid,35.0,PayPal,2025-03-01 11:04:22.847060,Q1,Completed,9,Pass,No,Team B
+APP-100464,2025-03-12 11:04:22.847060,International,France,48.0,FQ RESTO,Complete,Paid,352.5,PayPal,2025-04-03 11:04:22.847060,Q2,Completed,12,Pass,No,Team C
+APP-100465,2025-11-17 11:04:22.847060,UK,United Kingdom,35.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2025-11-23 11:04:22.847060,Q4,In Review,8,Pass,No,Team C
+APP-100466,2025-10-11 11:04:22.847060,UK,United Kingdom,53.0,Student Registration,Complete,Pending,35.0,Bank Transfer,2025-10-23 11:04:22.847060,Q4,In Review,4,Pass,No,Team B
+APP-100467,2025-02-01 11:04:22.847060,International,China,19.0,Fully Qualified,Complete,Unpaid,0.0,Bank Transfer,,,Submitted,0,Pass,No,Team C
+APP-100468,2025-03-10 11:04:22.847060,UK,United Kingdom,31.0,BD RESTO,Incomplete,Unpaid,0.0,Bank Transfer,,,Submitted,0,Pass,Yes,Team C
+APP-100469,2025-08-26 11:04:22.847060,International,Brazil,30.0,Student Registration,Complete,Paid,35.0,PayPal,2025-09-24 11:04:22.847060,Q3,Completed,5,Pass,No,Team B
+APP-100470,2024-08-20 11:04:22.847060,UK,United Kingdom,46.0,Fully Qualified,Complete,Pending,141.0,Bank Transfer,2024-08-27 11:04:22.847060,Q3,Completed,9,Pass,No,Team C
+APP-100471,2025-03-21 11:04:22.847060,International,Australia,29.0,Fully Qualified,Complete,Pending,211.5,Bank Transfer,2025-04-07 11:04:22.847060,Q2,In Review,3,Pass,No,Team C
+APP-100472,2025-01-28 11:04:22.847060,UK,United Kingdom,56.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2025-02-07 11:04:22.847060,Q1,Completed,6,Pass,No,Team C
+APP-100473,2025-03-07 11:04:22.847060,International,Brazil,19.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2025-03-31 11:04:22.847060,Q1,In Review,5,Pass,No,Team B
+APP-100474,2025-05-11 11:04:22.847060,UK,United Kingdom,49.0,FQ RESTO,Complete,Paid,352.5,Bank Transfer,2025-05-20 11:04:22.847060,Q2,Withdrawn,0,Pass,No,Team C
+APP-100475,2025-04-25 11:04:22.847060,International,France,30.0,Fully Qualified,Complete,Unpaid,0.0,PayPal,,,In Review,7,Pass,,Team B
+APP-100476,2024-08-23 11:04:22.847060,UK,United Kingdom,44.0,Student Registration,Incomplete,Paid,35.0,PayPal,2024-09-04 11:04:22.847060,Q3,In Review,1,Pass,Yes,Team B
+APP-100477,2024-10-21 11:04:22.847060,UK,United Kingdom,58.0,FQ RESTO,Complete,Paid,117.5,PayPal,2024-11-04 11:04:22.847060,Q4,In Review,15,Pass,No,Team A
+APP-100478,2024-11-03 11:04:22.847060,International,USA,34.0,STUDENT RESTO,Complete,Paid,35.0,PayPal,2024-11-20 11:04:22.847060,Q4,Submitted,0,Pass,No,Team A
+APP-100479,2025-01-24 11:04:22.847060,UK,United Kingdom,57.0,Body Corporate,Incomplete,Paid,400.0,Bank Transfer,2025-02-13 11:04:22.847060,Q1,Submitted,0,Pass,Yes,Team C
+APP-100480,2025-06-29 11:04:22.847060,UK,United Kingdom,48.0,Fully Qualified,Complete,Paid,141.0,PayPal,2025-07-10 11:04:22.847060,Q3,Completed,7,Pass,No,Team B
+APP-100481,2024-11-05 11:04:22.847060,International,Australia,51.0,FQ RESTO,Complete,Paid,,Bank Transfer,2024-11-14 11:04:22.847060,Q4,Completed,14,Fail,No,Team A
+APP-100482,2025-01-07 11:04:22.847060,UK,United Kingdom,41.0,STUDENT RESTO,Complete,Paid,35.0,Bank Transfer,2025-01-15 11:04:22.847060,Q1,Completed,13,Pass,No,Team C
+APP-100483,2024-08-06 11:04:22.847060,UK,United Kingdom,52.0,BD RESTO,Complete,Pending,260.0,Bank Transfer,2024-08-17 11:04:22.847060,Q3,Submitted,0,Pass,No,Team A
+APP-100484,2025-07-31 11:04:22.847060,UK,United Kingdom,23.0,Fully Qualified,,Paid,141.0,Bank Transfer,2025-08-16 11:04:22.847060,Q3,Completed,6,Pass,No,Team A
+APP-100485,2025-07-24 11:04:22.847060,International,USA,36.0,Body Corporate,Complete,Paid,200.0,PayPal,2025-08-21 11:04:22.847060,Q3,Submitted,0,Pass,No,Team B
+APP-100486,2025-05-06 11:04:22.847060,UK,United Kingdom,47.0,BD RESTO,Complete,Paid,390.0,Bank Transfer,2025-05-21 11:04:22.847060,Q2,Submitted,0,Pass,No,Team B
+APP-100487,2025-09-22 11:04:22.847060,UK,United Kingdom,24.0,Student Registration,Complete,Paid,35.0,PayPal,2025-10-06 11:04:22.847060,Q4,Completed,8,Pass,No,Team A
+APP-100488,2025-08-01 11:04:22.847060,International,USA,27.0,Fully Qualified,Complete,Paid,141.0,Bank Transfer,2025-08-04 11:04:22.847060,Q3,Completed,4,Fail,No,Team A
+APP-100489,2024-08-04 11:04:22.847060,International,Germany,58.0,FQ RESTO,Complete,Paid,235.0,Bank Transfer,2024-08-29 11:04:22.847060,Q3,Submitted,0,Pass,No,Team B
+APP-100490,2024-12-30 11:04:22.847060,UK,United Kingdom,49.0,Body Corporate,Complete,Pending,400.0,PayPal,2025-01-22 11:04:22.847060,Q1,Submitted,0,Pass,No,Team C
+APP-100491,2025-08-06 11:04:22.847060,UK,United Kingdom,51.0,Fully Qualified,Complete,Pending,141.0,Bank Transfer,2025-08-21 11:04:22.847060,Q3,Withdrawn,0,Pass,No,Team B
+APP-100492,2025-07-05 11:04:22.847060,UK,United Kingdom,45.0,Body Corporate,Complete,Pending,200.0,Bank Transfer,2025-07-29 11:04:22.847060,Q3,Submitted,0,Pass,No,Team A
+APP-100493,2024-06-22 11:04:22.847060,UK,United Kingdom,32.0,Student Registration,Incomplete,Paid,35.0,Bank Transfer,2024-07-18 11:04:22.847060,Q3,In Review,5,Pass,Yes,Team C
+APP-100494,2025-06-26 11:04:22.847060,UK,United Kingdom,47.0,Fully Qualified,Complete,Paid,141.0,PayPal,2025-07-06 11:04:22.847060,Q3,Completed,8,Pass,No,Team A
+APP-100495,2025-10-03 11:04:22.847060,UK,United Kingdom,54.0,BD RESTO,Complete,Unpaid,0.0,PayPal,,,Submitted,0,Pass,No,Team C
+APP-100496,2024-06-08 11:04:22.847060,UK,United Kingdom,46.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2024-07-07 11:04:22.847060,Q3,Submitted,0,Pass,No,Team A
+APP-100497,2025-05-28 11:04:22.847060,UK,United Kingdom,39.0,Student Registration,Complete,Paid,35.0,PayPal,2025-06-03 11:04:22.847060,Q2,In Review,10,Pass,No,Team C
+APP-100498,2025-04-03 11:04:22.847060,International,Pakistan,21.0,STUDENT RESTO,Incomplete,Paid,35.0,PayPal,2025-04-14 11:04:22.847060,Q2,Completed,17,Pass,Yes,Team C
+APP-100499,2025-07-06 11:04:22.847060,International,Pakistan,37.0,Student Registration,Incomplete,Paid,35.0,PayPal,2025-07-16 11:04:22.847060,Q3,Completed,9,Pass,Yes,Team A
+APP-100500,2025-08-05 11:04:22.847060,International,France,49.0,Student Registration,Complete,Paid,35.0,PayPal,2025-08-18 11:04:22.847060,Q3,Completed,8,Pass,No,Team C
+APP-100501,2025-01-13 11:04:22.847060,UK,United Kingdom,53.0,STUDENT RESTO,Complete,Unpaid,0.0,Bank Transfer,,,Withdrawn,0,Pass,No,Team B
+APP-100502,2025-10-14 11:04:22.847060,UK,United Kingdom,21.0,BD RESTO,Complete,Paid,130.0,PayPal,2025-10-15 11:04:22.847060,Q4,Completed,14,Pass,No,Team A
+APP-100503,2025-01-12 11:04:22.847060,International,Canada,44.0,Body Corporate,Incomplete,Paid,400.0,Bank Transfer,2025-01-30 11:04:22.847060,Q1,In Review,11,Pass,Yes,Team B
+APP-100504,2025-03-08 11:04:22.847060,International,China,34.0,FQ RESTO,Complete,Unpaid,0.0,Bank Transfer,,,In Review,17,Fail,No,Team A
+APP-100505,2025-08-22 11:04:22.847060,UK,United Kingdom,29.0,Student Registration,Complete,Unpaid,0.0,PayPal,,,Completed,3,Pass,No,Team C
+APP-100506,2025-10-12 11:04:22.847060,International,Canada,39.0,BD RESTO,Complete,Paid,130.0,PayPal,2025-11-08 11:04:22.847060,Q4,Completed,14,Pass,No,Team C
+APP-100507,2024-07-01 11:04:22.847060,International,Germany,34.0,Fully Qualified,Complete,Paid,141.0,Bank Transfer,2024-07-08 11:04:22.847060,Q3,Completed,6,Fail,No,Team C
+APP-100508,2025-07-05 11:04:22.847060,International,Germany,27.0,FQ RESTO,Complete,,235.0,Bank Transfer,2025-07-28 11:04:22.847060,Q3,Completed,14,Pass,No,Team A
+APP-100509,2025-05-12 11:04:22.847060,International,Pakistan,18.0,Fully Qualified,Complete,Pending,211.5,PayPal,2025-05-16 11:04:22.847060,Q2,Submitted,0,Pass,No,Team B
+APP-100510,2025-07-21 11:04:22.847060,UK,United Kingdom,39.0,Body Corporate,Complete,Paid,200.0,Bank Transfer,2025-07-21 11:04:22.847060,Q3,In Review,1,Pass,No,Team B
+APP-100511,2024-11-18 11:04:22.847060,UK,United Kingdom,43.0,Fully Qualified,Complete,Pending,70.5,Bank Transfer,2024-11-26 11:04:22.847060,Q4,In Review,3,Pass,No,Team A
+APP-100512,2025-09-23 11:04:22.847060,International,Australia,35.0,Fully Qualified,Complete,Paid,70.5,Bank Transfer,2025-10-10 11:04:22.847060,Q4,Submitted,0,Pass,No,Team A
+APP-100513,2024-10-10 11:04:22.847060,International,China,31.0,BD RESTO,Complete,Paid,130.0,Bank Transfer,2024-11-08 11:04:22.847060,Q4,Submitted,0,Pass,No,Team B
+APP-100514,2024-06-29 11:04:22.847060,UK,United Kingdom,46.0,Body Corporate,Complete,Paid,200.0,PayPal,2024-07-17 11:04:22.847060,Q3,Completed,8,Pass,No,Team B
+APP-100515,2025-07-10 11:04:22.847060,UK,United Kingdom,29.0,Body Corporate,Complete,Paid,200.0,Bank Transfer,2025-07-28 11:04:22.847060,Q3,Completed,8,Pass,No,Team B
+APP-100516,2024-06-29 11:04:22.847060,UK,United Kingdom,53.0,Fully Qualified,Complete,Pending,141.0,PayPal,2024-07-22 11:04:22.847060,Q3,In Review,2,Pass,No,Team B
+APP-100517,2024-08-26 11:04:22.847060,International,India,52.0,Fully Qualified,Complete,Paid,141.0,Bank Transfer,2024-09-08 11:04:22.847060,Q3,In Review,8,Pass,No,Team A
+APP-100518,2025-08-14 11:04:22.847060,International,India,29.0,BD RESTO,Complete,Paid,260.0,PayPal,2025-08-23 11:04:22.847060,Q3,In Review,17,Pass,No,Team A
+APP-100519,2024-10-18 11:04:22.847060,UK,United Kingdom,24.0,FQ RESTO,Complete,Paid,117.5,PayPal,2024-10-22 11:04:22.847060,Q4,Submitted,0,Pass,No,Team C
+APP-100520,2025-09-17 11:04:22.847060,UK,United Kingdom,46.0,Body Corporate,Complete,Paid,200.0,PayPal,2025-09-23 11:04:22.847060,Q3,Completed,7,Fail,No,Team B
+APP-100521,2024-12-05 11:04:22.847060,UK,United Kingdom,28.0,STUDENT RESTO,Complete,Paid,35.0,PayPal,2024-12-15 11:04:22.847060,,Completed,14,Fail,No,Team C
+APP-100522,2024-07-23 11:04:22.847060,International,China,50.0,FQ RESTO,Incomplete,Paid,235.0,PayPal,2024-07-30 11:04:22.847060,Q3,Completed,12,Pass,Yes,Team A
+APP-100523,2025-02-23 11:04:22.847060,International,Pakistan,23.0,Body Corporate,Complete,Paid,400.0,Bank Transfer,2025-03-07 11:04:22.847060,Q1,Completed,8,Fail,No,Team A
+APP-100524,2025-06-25 11:04:22.847060,International,Pakistan,32.0,Body Corporate,Incomplete,Pending,200.0,PayPal,2025-07-13 11:04:22.847060,Q3,Completed,4,Pass,Yes,Team C
+APP-100525,2025-05-03 11:04:22.847060,UK,United Kingdom,49.0,STUDENT RESTO,Complete,Paid,35.0,PayPal,2025-05-29 11:04:22.847060,,Submitted,0,Fail,No,Team B
+APP-100526,2025-01-04 11:04:22.847060,UK,United Kingdom,28.0,Body Corporate,Complete,Paid,400.0,Bank Transfer,2025-01-11 11:04:22.847060,Q1,In Review,5,Pass,No,Team B
+APP-100527,2025-09-10 11:04:22.847060,UK,United Kingdom,40.0,FQ RESTO,Complete,Pending,235.0,Bank Transfer,2025-09-25 11:04:22.847060,Q3,Submitted,0,Pass,No,Team B
+APP-100528,2025-05-02 11:04:22.847060,UK,United Kingdom,43.0,Body Corporate,Complete,Paid,300.0,PayPal,2025-05-19 11:04:22.847060,Q2,Withdrawn,0,Pass,No,Team B
+APP-100529,2025-05-13 11:04:22.847060,International,Pakistan,51.0,Body Corporate,Complete,Paid,300.0,PayPal,2025-06-02 11:04:22.847060,Q2,Submitted,0,Pass,No,Team C
+APP-100530,2025-06-25 11:04:22.847060,International,Nigeria,51.0,Student Registration,Complete,Unpaid,0.0,Bank Transfer,,,Submitted,0,Pass,No,Team C
+APP-100531,2025-03-13 11:04:22.847060,International,France,46.0,Fully Qualified,Complete,Paid,211.5,Bank Transfer,2025-04-12 11:04:22.847060,Q2,Completed,3,Pass,No,Team A
+APP-100532,2025-08-07 11:04:22.847060,International,Pakistan,9.0,STUDENT RESTO,Complete,Paid,35.0,PayPal,2025-08-28 11:04:22.847060,Q3,Completed,16,Pass,No,Team B
+APP-100533,2025-02-15 11:04:22.847060,UK,United Kingdom,34.0,Body Corporate,Complete,Paid,400.0,Bank Transfer,2025-02-25 11:04:22.847060,Q1,Completed,9,Pass,No,Team B
+APP-100534,2024-08-24 11:04:22.847060,International,Australia,52.0,Body Corporate,Complete,Paid,200.0,PayPal,2024-09-01 11:04:22.847060,Q3,Submitted,0,Pass,No,Team B
+APP-100535,2025-09-26 11:04:22.847060,International,USA,30.0,STUDENT RESTO,Complete,Unpaid,0.0,PayPal,,,Submitted,0,Pass,No,Team C
+APP-100536,2024-06-21 11:04:22.847060,International,India,58.0,Body Corporate,Complete,Paid,200.0,PayPal,2024-07-15 11:04:22.847060,Q3,In Review,4,Pass,No,Team B
+APP-100537,2024-07-25 11:04:22.847060,UK,United Kingdom,56.0,Fully Qualified,Complete,Pending,141.0,Bank Transfer,2024-08-20 11:04:22.847060,Q3,Submitted,0,Pass,No,Team C
+APP-100538,2025-05-26 11:04:22.847060,UK,United Kingdom,32.0,BD RESTO,Complete,Pending,390.0,PayPal,2025-06-10 11:04:22.847060,Q2,Submitted,0,Pass,No,Team B
+APP-100539,2025-01-17 11:04:22.847060,UK,United Kingdom,46.0,BD RESTO,Complete,Paid,520.0,PayPal,2025-02-16 11:04:22.847060,Q1,In Review,15,Pass,No,Team B
+APP-100540,2024-08-11 11:04:22.847060,International,China,46.0,Student Registration,Complete,Paid,35.0,PayPal,2024-09-03 11:04:22.847060,Q3,Completed,4,Pass,No,Team A
+APP-100541,2024-07-13 11:04:22.847060,UK,United Kingdom,28.0,Fully Qualified,Incomplete,Paid,141.0,Bank Transfer,2024-08-02 11:04:22.847060,Q3,In Review,3,Fail,Yes,Team B
+APP-100542,2024-07-03 11:04:22.847060,UK,United Kingdom,49.0,Fully Qualified,Incomplete,Paid,141.0,Bank Transfer,2024-07-26 11:04:22.847060,Q3,Completed,5,Pass,Yes,Team B
+APP-100543,2025-02-10 11:04:22.847060,International,Nigeria,19.0,Fully Qualified,Complete,Paid,282.0,PayPal,2025-02-25 11:04:22.847060,Q1,Completed,4,Pass,No,Team A
+APP-100544,2024-12-23 11:04:22.847060,UK,United Kingdom,31.0,Fully Qualified,Complete,Unpaid,0.0,Bank Transfer,,,In Review,3,Fail,No,Team C
+APP-100545,2024-06-22 11:04:22.847060,UK,United Kingdom,37.0,Fully Qualified,Complete,Unpaid,0.0,Bank Transfer,,,Completed,4,Pass,No,Team C
+APP-100546,2024-11-05 11:04:22.847060,UK,United Kingdom,39.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2024-11-19 11:04:22.847060,Q4,In Review,3,Pass,No,Team B
+APP-100547,2025-02-01 11:04:22.847060,International,France,28.0,Fully Qualified,Complete,Paid,282.0,PayPal,2025-02-06 11:04:22.847060,Q1,Submitted,0,Pass,No,Team C
+APP-100548,2024-10-09 11:04:22.847060,UK,United Kingdom,44.0,Student Registration,Complete,Pending,35.0,Bank Transfer,2024-11-01 11:04:22.847060,Q4,Completed,8,Pass,No,Team B
+APP-100549,2025-09-29 11:04:22.847060,International,Germany,20.0,Body Corporate,Incomplete,Paid,100.0,Bank Transfer,2025-10-24 11:04:22.847060,Q4,Submitted,0,Pass,Yes,Team A
+APP-100550,2024-09-27 11:04:22.847060,UK,United Kingdom,34.0,FQ RESTO,Complete,Pending,117.5,Bank Transfer,2024-10-08 11:04:22.847060,Q4,Withdrawn,0,Pass,No,Team A
+APP-100551,2025-01-11 11:04:22.847060,International,Brazil,45.0,BD RESTO,Complete,Paid,520.0,PayPal,2025-01-16 11:04:22.847060,Q1,Submitted,0,Pass,No,
+APP-100552,2025-09-21 11:04:22.847060,UK,United Kingdom,46.0,Fully Qualified,Complete,Paid,141.0,Bank Transfer,2025-09-25 11:04:22.847060,Q3,Completed,4,Fail,No,Team A
+APP-100553,2025-02-19 11:04:22.847060,UK,United Kingdom,38.0,Student Registration,Complete,Pending,35.0,Bank Transfer,2025-03-14 11:04:22.847060,Q1,In Review,5,Pass,No,Team A
+APP-100554,2025-06-14 11:04:22.847060,International,France,33.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2025-07-01 11:04:22.847060,Q3,Submitted,0,Pass,No,Team B
+,2024-11-20 11:04:22.847060,UK,United Kingdom,54.0,Fully Qualified,Complete,Unpaid,0.0,PayPal,,,Submitted,0,Pass,No,Team B
+APP-100556,2024-09-27 11:04:22.847060,UK,United Kingdom,37.0,Student Registration,Complete,Unpaid,0.0,Bank Transfer,,,Completed,7,Pass,No,Team A
+APP-100557,2024-11-16 11:04:22.847060,UK,United Kingdom,23.0,Fully Qualified,Complete,Paid,70.5,Bank Transfer,2024-12-01 11:04:22.847060,Q4,Completed,4,Pass,No,Team C
+APP-100558,2025-04-16 11:04:22.847060,International,Australia,36.0,Student Registration,Incomplete,Paid,35.0,Bank Transfer,2025-04-21 11:04:22.847060,Q2,Completed,3,Pass,Yes,Team C
+APP-100559,2024-09-20 11:04:22.847060,UK,United Kingdom,22.0,FQ RESTO,Complete,Unpaid,0.0,PayPal,,,In Review,16,Pass,No,Team B
+APP-100560,2024-06-28 11:04:22.847060,International,Germany,20.0,Fully Qualified,Complete,Unpaid,0.0,,,,Completed,5,Pass,No,Team B
+APP-100561,2025-04-17 11:04:22.847060,UK,United Kingdom,18.0,Student Registration,Complete,Paid,35.0,PayPal,2025-05-16 11:04:22.847060,Q2,Completed,5,Pass,No,Team C
+APP-100562,2025-06-21 11:04:22.847060,UK,United Kingdom,55.0,FQ RESTO,Incomplete,Pending,235.0,PayPal,2025-07-19 11:04:22.847060,,Completed,13,Pass,Yes,Team A
+APP-100563,2025-07-13 11:04:22.847060,UK,United Kingdom,32.0,Fully Qualified,Complete,Paid,141.0,Bank Transfer,2025-07-30 11:04:22.847060,Q3,In Review,8,Pass,No,Team C
+APP-100564,2024-12-22 11:04:22.847060,UK,United Kingdom,51.0,Student Registration,Complete,Paid,35.0,PayPal,2025-01-11 11:04:22.847060,Q1,Completed,4,Pass,No,Team C
+APP-100565,2024-08-18 11:04:22.847060,UK,United Kingdom,52.0,Body Corporate,Incomplete,Pending,200.0,Bank Transfer,2024-09-17 11:04:22.847060,Q3,Completed,7,Pass,Yes,Team C
+APP-100566,2025-02-05 11:04:22.847060,,United Kingdom,42.0,Body Corporate,Incomplete,Paid,400.0,Bank Transfer,2025-02-06 11:04:22.847060,Q1,In Review,3,Pass,Yes,Team C
+APP-100567,2024-09-14 11:04:22.847060,UK,United Kingdom,41.0,BD RESTO,Complete,Unpaid,0.0,Bank Transfer,,,Completed,17,Pass,No,Team B
+APP-100568,2025-04-06 11:04:22.847060,International,Brazil,29.0,Student Registration,Incomplete,Paid,35.0,Bank Transfer,2025-04-22 11:04:22.847060,Q2,Completed,7,Pass,Yes,Team B
+APP-100569,2024-10-03 11:04:22.847060,UK,United Kingdom,35.0,Fully Qualified,Complete,Paid,70.5,PayPal,2024-10-04 11:04:22.847060,Q4,Submitted,0,Fail,No,Team A
+APP-100570,2024-07-14 11:04:22.847060,UK,United Kingdom,32.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2024-08-09 11:04:22.847060,Q3,Submitted,0,Pass,No,Team A
+APP-100571,2025-05-23 11:04:22.847060,International,Germany,33.0,Student Registration,Complete,Paid,35.0,PayPal,2025-06-19 11:04:22.847060,Q2,In Review,2,Fail,No,
+APP-100572,2025-08-14 11:04:22.847060,UK,United Kingdom,44.0,FQ RESTO,Complete,Paid,235.0,Bank Transfer,2025-08-16 11:04:22.847060,Q3,Completed,13,Pass,No,Team A
+APP-100573,2025-06-16 11:04:22.847060,UK,United Kingdom,25.0,BD RESTO,Complete,Paid,260.0,Bank Transfer,2025-07-16 11:04:22.847060,Q3,Completed,14,Fail,No,Team C
+APP-100574,2024-08-11 11:04:22.847060,International,USA,42.0,Fully Qualified,Complete,Paid,141.0,PayPal,2024-09-06 11:04:22.847060,Q3,Submitted,0,Pass,No,Team B
+APP-100575,2025-11-02 11:04:22.847060,International,Australia,34.0,Body Corporate,Complete,Paid,100.0,PayPal,2025-11-23 11:04:22.847060,Q4,Completed,6,Fail,No,Team B
+APP-100576,2025-05-17 11:04:22.847060,UK,United Kingdom,46.0,Student Registration,Complete,Paid,35.0,PayPal,2025-05-18 11:04:22.847060,Q2,Completed,9,Fail,No,Team A
+APP-100577,2024-06-14 11:04:22.847060,International,Brazil,25.0,FQ RESTO,Complete,Pending,235.0,Bank Transfer,2024-07-08 11:04:22.847060,Q3,Submitted,0,Pass,No,Team A
+APP-100578,2025-08-06 11:04:22.847060,UK,United Kingdom,32.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2025-08-06 11:04:22.847060,Q3,Completed,6,Fail,No,Team C
+APP-100579,2025-10-16 11:04:22.847060,UK,United Kingdom,44.0,Student Registration,Complete,Paid,35.0,PayPal,2025-10-29 11:04:22.847060,Q4,Withdrawn,0,Pass,No,Team C
+APP-100580,2024-09-18 11:04:22.847060,UK,United Kingdom,24.0,Fully Qualified,Complete,Paid,141.0,PayPal,2024-09-22 11:04:22.847060,Q3,Completed,5,Pass,No,Team A
+APP-100581,2025-08-19 11:04:22.847060,,Germany,20.0,Body Corporate,Complete,Paid,200.0,Bank Transfer,2025-09-14 11:04:22.847060,Q3,Completed,9,Pass,No,Team B
+APP-100582,2025-06-07 11:04:22.847060,UK,United Kingdom,46.0,Body Corporate,Complete,Paid,300.0,PayPal,2025-06-27 11:04:22.847060,Q2,Withdrawn,0,Pass,No,Team B
+APP-100583,2025-09-15 11:04:22.847060,UK,United Kingdom,41.0,Student Registration,Incomplete,Paid,35.0,PayPal,2025-09-22 11:04:22.847060,Q3,Completed,6,Pass,Yes,Team B
+APP-100584,2024-11-05 11:04:22.847060,UK,United Kingdom,20.0,Fully Qualified,Complete,Paid,70.5,PayPal,2024-11-07 11:04:22.847060,Q4,In Review,10,Pass,No,Team A
+APP-100585,2025-08-21 11:04:22.847060,UK,United Kingdom,37.0,Fully Qualified,Complete,Pending,141.0,PayPal,2025-09-12 11:04:22.847060,Q3,Completed,7,Fail,No,Team B
+APP-100586,2024-11-29 11:04:22.847060,UK,United Kingdom,32.0,Student Registration,Complete,Pending,35.0,PayPal,2024-12-03 11:04:22.847060,Q4,Completed,9,Pass,No,Team C
+APP-100587,2025-11-18 11:04:22.847060,UK,United Kingdom,42.0,FQ RESTO,Complete,Paid,117.5,Bank Transfer,2025-11-18 11:04:22.847060,Q4,Completed,17,Pass,No,Team C
+APP-100588,2025-03-05 11:04:22.847060,UK,United Kingdom,47.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2025-03-11 11:04:22.847060,Q1,In Review,1,Fail,No,Team A
+APP-100589,2025-10-10 11:04:22.847060,UK,United Kingdom,31.0,Fully Qualified,Incomplete,Paid,70.5,PayPal,2025-10-26 11:04:22.847060,Q4,Completed,7,Fail,Yes,Team C
+APP-100590,2025-09-21 11:04:22.847060,UK,United Kingdom,24.0,Body Corporate,Complete,Paid,100.0,Bank Transfer,2025-10-05 11:04:22.847060,Q4,Submitted,0,Fail,No,Team A
+APP-100591,2025-08-22 11:04:22.847060,UK,United Kingdom,34.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2025-09-02 11:04:22.847060,Q3,Completed,5,Pass,No,Team B
+APP-100592,2025-03-03 11:04:22.847060,UK,United Kingdom,37.0,Body Corporate,Complete,Paid,400.0,Bank Transfer,2025-03-04 11:04:22.847060,Q1,In Review,3,Fail,No,Team B
+APP-100593,2025-04-28 11:04:22.847060,UK,United Kingdom,53.0,FQ RESTO,Complete,Paid,352.5,Bank Transfer,2025-05-17 11:04:22.847060,Q2,Submitted,0,Pass,No,Team B
+APP-100594,2025-02-08 11:04:22.847060,International,France,26.0,Student Registration,Complete,Paid,35.0,PayPal,2025-02-28 11:04:22.847060,Q1,In Review,10,Pass,No,Team C
+APP-100595,2024-08-29 11:04:22.847060,UK,United Kingdom,55.0,STUDENT RESTO,Complete,Paid,35.0,PayPal,2024-09-19 11:04:22.847060,Q3,Submitted,0,Pass,No,Team A
+APP-100596,2025-03-14 11:04:22.847060,International,Pakistan,39.0,Body Corporate,Complete,Paid,300.0,Bank Transfer,2025-04-12 11:04:22.847060,Q2,Completed,9,Pass,No,Team B
+APP-100597,2025-09-06 11:04:22.847060,UK,United Kingdom,19.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2025-09-25 11:04:22.847060,Q3,Completed,4,Pass,No,Team A
+APP-100598,2025-02-06 11:04:22.847060,UK,United Kingdom,92.0,Fully Qualified,Complete,Paid,282.0,PayPal,2025-03-07 11:04:22.847060,Q1,Completed,4,Pass,No,Team B
+APP-100599,2025-09-20 11:04:22.847060,UK,United Kingdom,25.0,Fully Qualified,Incomplete,Paid,70.5,PayPal,2025-10-05 11:04:22.847060,Q4,Submitted,0,Pass,Yes,Team C
+APP-100600,2025-06-25 11:04:22.847060,UK,United Kingdom,28.0,BD RESTO,Complete,Paid,260.0,PayPal,2025-07-16 11:04:22.847060,Q3,Submitted,0,Pass,No,Team C
+APP-100601,2025-05-12 11:04:22.847060,UK,United Kingdom,30.0,BD RESTO,Complete,Paid,390.0,Bank Transfer,2025-05-27 11:04:22.847060,Q2,Completed,15,Pass,No,Team A
+APP-100602,2024-07-01 11:04:22.847060,UK,United Kingdom,34.0,FQ RESTO,Complete,Paid,235.0,Bank Transfer,2024-07-01 11:04:22.847060,Q3,Completed,14,Pass,No,Team C
+APP-100603,2025-10-21 11:04:22.847060,UK,United Kingdom,25.0,STUDENT RESTO,Complete,Paid,35.0,Bank Transfer,2025-10-21 11:04:22.847060,Q4,In Review,16,Pass,No,Team C
+APP-100604,2025-04-30 11:04:22.847060,UK,United Kingdom,38.0,BD RESTO,Incomplete,Paid,390.0,PayPal,2025-05-17 11:04:22.847060,Q2,In Review,17,Pass,Yes,Team A
+APP-100605,2024-12-05 11:04:22.847060,UK,United Kingdom,35.0,Body Corporate,Complete,Paid,100.0,PayPal,2024-12-22 11:04:22.847060,Q4,In Review,1,Pass,No,Team B
+APP-100606,2025-10-14 11:04:22.847060,UK,United Kingdom,47.0,Fully Qualified,Complete,Paid,70.5,PayPal,2025-10-27 11:04:22.847060,Q4,Completed,4,Pass,No,Team C
+APP-100607,2025-01-05 11:04:22.847060,UK,United Kingdom,35.0,Fully Qualified,Incomplete,Paid,282.0,Bank Transfer,2025-01-05 11:04:22.847060,Q1,Completed,5,Fail,Yes,Team A
+APP-100608,2025-05-31 11:04:22.847060,UK,United Kingdom,48.0,Student Registration,Complete,Paid,35.0,PayPal,2025-05-31 11:04:22.847060,Q2,In Review,3,Pass,No,Team C
+APP-100609,2025-02-21 11:04:22.847060,International,Canada,55.0,BD RESTO,Incomplete,Paid,520.0,PayPal,2025-03-09 11:04:22.847060,Q1,In Review,12,Pass,Yes,Team C
+APP-100610,2025-05-16 11:04:22.847060,UK,United Kingdom,49.0,Fully Qualified,Complete,Pending,211.5,Bank Transfer,2025-06-08 11:04:22.847060,Q2,Completed,6,Pass,No,Team C
+APP-100611,2025-03-15 11:04:22.847060,International,Australia,28.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2025-03-23 11:04:22.847060,Q1,Submitted,0,Pass,No,Team C
+APP-100612,2025-03-11 11:04:22.847060,UK,United Kingdom,42.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2025-03-28 11:04:22.847060,Q1,In Review,4,Pass,No,Team A
+APP-100613,2024-06-12 11:04:22.847060,UK,United Kingdom,50.0,Fully Qualified,Complete,Pending,211.5,Bank Transfer,2024-06-21 11:04:22.847060,Q2,Completed,5,Pass,No,Team A
+APP-100614,2025-11-13 11:04:22.847060,International,Canada,55.0,Body Corporate,Incomplete,Pending,100.0,Bank Transfer,2025-11-13 11:04:22.847060,Q4,Submitted,0,Pass,Yes,Team A
+APP-100615,2024-12-14 11:04:22.847060,International,Nigeria,58.0,Fully Qualified,Complete,Paid,70.5,Bank Transfer,2024-12-30 11:04:22.847060,Q4,Submitted,0,Pass,No,Team C
+APP-100616,2024-08-28 11:04:22.847060,UK,United Kingdom,25.0,Body Corporate,Complete,Paid,200.0,Bank Transfer,2024-09-23 11:04:22.847060,Q3,Completed,7,Pass,No,Team C
+APP-100617,2025-02-04 11:04:22.847060,UK,United Kingdom,,Fully Qualified,Complete,Paid,282.0,Bank Transfer,2025-02-26 11:04:22.847060,Q1,Completed,4,Pass,No,Team C
+APP-100618,2025-07-23 11:04:22.847060,International,Canada,39.0,Body Corporate,Complete,Paid,200.0,Bank Transfer,2025-08-13 11:04:22.847060,Q3,Completed,5,Pass,No,Team A
+APP-100619,2025-10-15 11:04:22.847060,International,Germany,41.0,Student Registration,Complete,Paid,35.0,PayPal,2025-10-28 11:04:22.847060,Q4,Completed,6,Pass,No,Team C
+APP-100620,2025-02-03 11:04:22.847060,UK,United Kingdom,58.0,Student Registration,Incomplete,Paid,35.0,Bank Transfer,2025-02-28 11:04:22.847060,Q1,Completed,4,Pass,Yes,Team B
+APP-100621,2025-10-02 11:04:22.847060,UK,United Kingdom,34.0,Body Corporate,Complete,Paid,100.0,PayPal,2025-11-01 11:04:22.847060,Q4,Completed,9,Pass,No,Team C
+APP-100622,2025-10-17 11:04:22.847060,UK,United Kingdom,29.0,Fully Qualified,Complete,Unpaid,0.0,Bank Transfer,,,In Review,5,Fail,No,Team B
+APP-100623,2025-09-03 11:04:22.847060,UK,United Kingdom,11.0,Student Registration,Complete,Unpaid,0.0,PayPal,,,Completed,7,Fail,No,Team C
+APP-100624,2024-06-19 11:04:22.847060,UK,United Kingdom,32.0,Fully Qualified,Complete,Paid,141.0,Bank Transfer,2024-07-18 11:04:22.847060,Q3,Withdrawn,0,Pass,No,Team A
+APP-100625,2024-09-05 11:04:22.847060,UK,United Kingdom,33.0,Student Registration,Complete,Paid,35.0,PayPal,2024-09-10 11:04:22.847060,Q3,In Review,3,Pass,No,Team C
+APP-100626,2025-03-30 11:04:22.847060,UK,United Kingdom,39.0,Fully Qualified,Complete,Paid,211.5,Bank Transfer,2025-04-02 11:04:22.847060,Q2,In Review,4,Pass,No,Team B
+APP-100627,2025-01-14 11:04:22.847060,International,Canada,45.0,Fully Qualified,Incomplete,Pending,282.0,PayPal,2025-02-12 11:04:22.847060,Q1,In Review,6,Pass,Yes,Team B
+APP-100628,2025-07-21 11:04:22.847060,UK,United Kingdom,37.0,Body Corporate,Complete,Paid,200.0,Bank Transfer,2025-07-24 11:04:22.847060,Q3,Submitted,0,Pass,No,Team C
+APP-100629,2025-02-06 11:04:22.847060,UK,United Kingdom,50.0,FQ RESTO,Complete,Paid,,PayPal,2025-02-22 11:04:22.847060,Q1,Submitted,0,Fail,No,Team B
+APP-100630,2025-04-11 11:04:22.847060,International,Australia,27.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2025-04-15 11:04:22.847060,Q2,Completed,6,Fail,No,Team B
+APP-100631,2025-06-14 11:04:22.847060,International,China,57.0,STUDENT RESTO,Incomplete,Paid,35.0,Bank Transfer,2025-06-21 11:04:22.847060,Q2,Withdrawn,0,Pass,Yes,Team A
+APP-100632,2025-09-29 11:04:22.847060,UK,United Kingdom,49.0,Fully Qualified,Complete,Paid,70.5,Bank Transfer,2025-10-05 11:04:22.847060,Q4,In Review,11,Pass,No,Team C
+APP-100633,2025-05-20 11:04:22.847060,UK,United Kingdom,50.0,Body Corporate,Complete,Pending,300.0,PayPal,2025-06-08 11:04:22.847060,Q2,Submitted,0,Pass,No,Team C
+APP-100634,2025-08-11 11:04:22.847060,UK,United Kingdom,19.0,Body Corporate,Complete,Paid,200.0,PayPal,2025-08-27 11:04:22.847060,Q3,Submitted,0,Pass,No,Team C
+APP-100635,2025-05-06 11:04:22.847060,UK,United Kingdom,50.0,Body Corporate,Complete,Paid,300.0,PayPal,2025-05-14 11:04:22.847060,Q2,Completed,6,Pass,No,Team B
+APP-100636,2025-05-28 11:04:22.847060,UK,United Kingdom,50.0,Fully Qualified,Complete,Paid,211.5,Bank Transfer,2025-06-23 11:04:22.847060,Q2,In Review,4,Pass,No,Team C
+APP-100637,2025-09-09 11:04:22.847060,UK,United Kingdom,58.0,Fully Qualified,Complete,Paid,141.0,Bank Transfer,2025-09-20 11:04:22.847060,Q3,In Review,6,Pass,No,Team C
+APP-100638,2025-03-06 11:04:22.847060,UK,United Kingdom,30.0,Student Registration,Complete,Pending,35.0,PayPal,2025-03-14 11:04:22.847060,Q1,In Review,6,Pass,No,Team A
+APP-100639,2025-04-11 11:04:22.847060,UK,United Kingdom,47.0,Student Registration,Complete,Unpaid,0.0,Bank Transfer,,,In Review,11,Pass,No,Team A
+APP-100640,2025-02-14 11:04:22.847060,UK,United Kingdom,50.0,Fully Qualified,Incomplete,Unpaid,0.0,PayPal,,,In Review,5,Fail,Yes,Team A
+APP-100641,2025-01-24 11:04:22.847060,UK,United Kingdom,30.0,Fully Qualified,Incomplete,Pending,282.0,PayPal,2025-02-18 11:04:22.847060,Q1,Completed,3,Pass,Yes,Team B
+APP-100642,2024-10-03 11:04:22.847060,UK,United Kingdom,43.0,Fully Qualified,Complete,Paid,70.5,PayPal,2024-10-15 11:04:22.847060,Q4,Completed,3,Pass,No,Team C
+APP-100643,2024-12-16 11:04:22.847060,UK,United Kingdom,39.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2024-12-18 11:04:22.847060,Q4,Completed,7,Pass,No,Team A
+APP-100644,2025-04-21 11:04:22.847060,UK,United Kingdom,56.0,BD RESTO,Complete,Paid,390.0,Bank Transfer,2025-05-02 11:04:22.847060,Q2,In Review,11,Pass,No,Team A
+APP-100645,2024-10-02 11:04:22.847060,International,India,19.0,FQ RESTO,Complete,Unpaid,0.0,Bank Transfer,,,Completed,12,Pass,No,Team A
+APP-100646,2024-12-08 11:04:22.847060,UK,United Kingdom,55.0,STUDENT RESTO,Complete,Paid,35.0,PayPal,2025-01-07 11:04:22.847060,Q1,Completed,16,Pass,No,Team C
+APP-100647,2024-12-15 11:04:22.847060,International,Australia,56.0,Fully Qualified,Complete,Paid,70.5,Bank Transfer,2024-12-27 11:04:22.847060,Q4,Submitted,0,Fail,No,Team C
+APP-100648,2025-01-09 11:04:22.847060,International,France,43.0,BD RESTO,Complete,Pending,520.0,Bank Transfer,2025-01-23 11:04:22.847060,Q1,Completed,16,Pass,No,
+APP-100649,2025-10-10 11:04:22.847060,UK,United Kingdom,32.0,FQ RESTO,Incomplete,Paid,117.5,Bank Transfer,2025-10-28 11:04:22.847060,Q4,In Review,13,Fail,Yes,Team B
+APP-100650,2025-03-12 11:04:22.847060,UK,United Kingdom,51.0,Fully Qualified,Complete,Paid,282.0,Bank Transfer,2025-03-19 11:04:22.847060,Q1,Completed,9,Pass,No,Team B
+APP-100651,2025-11-21 11:04:22.847060,UK,United Kingdom,59.0,Fully Qualified,Complete,Paid,70.5,PayPal,2025-12-13 11:04:22.847060,Q4,In Review,1,Pass,No,Team A
+APP-100652,2025-03-18 11:04:22.847060,UK,United Kingdom,57.0,STUDENT RESTO,Complete,Paid,35.0,PayPal,2025-03-25 11:04:22.847060,Q1,Withdrawn,0,Pass,No,Team C
+APP-100653,2024-09-12 11:04:22.847060,International,Nigeria,28.0,Fully Qualified,Complete,Paid,141.0,Bank Transfer,2024-09-21 11:04:22.847060,Q3,Submitted,0,Pass,No,Team A
+APP-100654,2024-12-17 11:04:22.847060,UK,United Kingdom,20.0,Fully Qualified,Complete,Pending,282.0,Bank Transfer,2025-01-07 11:04:22.847060,Q1,Completed,4,Pass,No,Team C
+APP-100655,2025-04-01 11:04:22.847060,UK,United Kingdom,23.0,Student Registration,Complete,Paid,35.0,PayPal,2025-04-27 11:04:22.847060,Q2,Completed,6,Pass,No,Team C
+APP-100656,2025-01-20 11:04:22.847060,UK,United Kingdom,26.0,Student Registration,Complete,Unpaid,0.0,Bank Transfer,,,Completed,4,Pass,No,Team C
+APP-100657,2025-06-06 11:04:22.847060,UK,United Kingdom,23.0,FQ RESTO,Complete,Paid,235.0,PayPal,2025-07-03 11:04:22.847060,Q3,In Review,13,Fail,No,Team B
+APP-100658,2024-12-02 11:04:22.847060,UK,United Kingdom,26.0,Body Corporate,Complete,Paid,100.0,PayPal,2024-12-04 11:04:22.847060,Q4,In Review,6,Fail,No,Team B
+APP-100659,2025-04-07 11:04:22.847060,UK,United Kingdom,56.0,Fully Qualified,Complete,Pending,211.5,Bank Transfer,2025-04-27 11:04:22.847060,Q2,Completed,4,Fail,No,Team C
+APP-100660,2024-06-16 11:04:22.847060,UK,United Kingdom,48.0,Student Registration,Incomplete,Paid,35.0,Bank Transfer,2024-07-13 11:04:22.847060,Q3,In Review,1,Pass,Yes,Team A
+APP-100661,,International,Germany,49.0,Body Corporate,Incomplete,Paid,100.0,PayPal,2024-10-29 11:04:22.847060,Q4,In Review,6,Pass,Yes,Team C
+APP-100662,2025-03-09 11:04:22.847060,UK,United Kingdom,58.0,Body Corporate,Incomplete,Pending,300.0,Bank Transfer,2025-04-02 11:04:22.847060,Q2,Completed,7,Pass,Yes,Team C
+APP-100663,2024-07-18 11:04:22.847060,,United Kingdom,29.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2024-07-19 11:04:22.847060,Q3,Completed,8,Pass,No,Team A
+APP-100664,2024-07-27 11:04:22.847060,UK,United Kingdom,25.0,FQ RESTO,Complete,Paid,235.0,Bank Transfer,2024-07-29 11:04:22.847060,Q3,In Review,10,Pass,No,Team C
+APP-100665,2025-03-28 11:04:22.847060,UK,United Kingdom,25.0,Student Registration,Incomplete,Paid,35.0,Bank Transfer,2025-04-09 11:04:22.847060,Q2,In Review,7,Pass,Yes,Team A
+APP-100666,2024-10-09 11:04:22.847060,UK,United Kingdom,45.0,Fully Qualified,Complete,Paid,70.5,PayPal,2024-10-21 11:04:22.847060,Q4,In Review,6,Pass,No,Team B
+APP-100667,2025-10-17 11:04:22.847060,UK,United Kingdom,37.0,Body Corporate,Complete,Paid,100.0,PayPal,2025-10-29 11:04:22.847060,Q4,Completed,6,,No,Team B
+APP-100668,2024-09-15 11:04:22.847060,UK,United Kingdom,24.0,Student Registration,Complete,Paid,35.0,PayPal,2024-10-02 11:04:22.847060,Q4,Completed,9,Fail,No,Team A
+APP-100669,2024-06-14 11:04:22.847060,UK,United Kingdom,28.0,FQ RESTO,Complete,Pending,352.5,Bank Transfer,2024-06-29 11:04:22.847060,Q2,Completed,11,Pass,No,Team B
+APP-100670,2025-03-20 11:04:22.847060,UK,United Kingdom,37.0,BD RESTO,Incomplete,Unpaid,0.0,Bank Transfer,,,Withdrawn,0,Pass,Yes,Team B
+APP-100671,2025-09-25 11:04:22.847060,International,USA,33.0,BD RESTO,Complete,Paid,260.0,PayPal,2025-09-26 11:04:22.847060,Q3,In Review,12,Pass,No,Team A
+APP-100672,2025-10-05 11:04:22.847060,UK,United Kingdom,21.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2025-10-25 11:04:22.847060,Q4,Submitted,0,Fail,No,Team B
+APP-100673,2025-08-27 11:04:22.847060,UK,United Kingdom,23.0,Student Registration,Complete,Paid,35.0,PayPal,2025-08-27 11:04:22.847060,Q3,Submitted,0,Pass,No,Team C
+APP-100674,2025-05-16 11:04:22.847060,UK,United Kingdom,39.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2025-06-07 11:04:22.847060,Q2,In Review,4,Pass,No,Team C
+APP-100675,2024-12-07 11:04:22.847060,International,Nigeria,43.0,Fully Qualified,Incomplete,Paid,70.5,PayPal,2024-12-12 11:04:22.847060,Q4,Completed,8,Pass,Yes,Team A
+APP-100676,2024-07-24 11:04:22.847060,UK,United Kingdom,20.0,BD RESTO,Complete,Pending,260.0,Bank Transfer,2024-07-26 11:04:22.847060,Q3,Completed,11,Pass,No,Team B
+APP-100677,2025-02-15 11:04:22.847060,UK,United Kingdom,58.0,FQ RESTO,Complete,Pending,470.0,Bank Transfer,2025-03-02 11:04:22.847060,Q1,In Review,14,Pass,No,Team C
+APP-100678,2025-10-04 11:04:22.847060,International,India,59.0,BD RESTO,Incomplete,Paid,130.0,Bank Transfer,2025-10-31 11:04:22.847060,Q4,In Review,15,Pass,Yes,Team C
+APP-100679,2024-09-26 11:04:22.847060,International,Nigeria,31.0,STUDENT RESTO,Complete,Paid,35.0,Bank Transfer,2024-10-09 11:04:22.847060,Q4,Completed,16,Pass,No,Team B
+APP-100680,2024-08-07 11:04:22.847060,International,Brazil,28.0,BD RESTO,Complete,Paid,260.0,Bank Transfer,2024-08-27 11:04:22.847060,Q3,Completed,16,Pass,No,Team B
+APP-100681,2025-07-17 11:04:22.847060,UK,United Kingdom,35.0,Fully Qualified,Complete,Paid,141.0,PayPal,2025-08-11 11:04:22.847060,Q3,Submitted,0,Pass,No,Team C
+APP-100682,2025-10-18 11:04:22.847060,UK,United Kingdom,29.0,Student Registration,Complete,Paid,35.0,PayPal,2025-10-28 11:04:22.847060,Q4,Withdrawn,0,Fail,No,Team C
+APP-100683,2024-08-16 11:04:22.847060,International,China,40.0,Body Corporate,Complete,Unpaid,0.0,PayPal,,,Completed,3,Pass,No,Team A
+APP-100684,2024-07-26 11:04:22.847060,International,Canada,29.0,Student Registration,Complete,Paid,35.0,PayPal,2024-08-13 11:04:22.847060,Q3,Submitted,0,Pass,No,Team A
+APP-100685,2024-11-04 11:04:22.847060,UK,United Kingdom,30.0,Student Registration,Complete,Pending,35.0,Bank Transfer,2024-12-01 11:04:22.847060,Q4,Completed,7,Pass,No,Team C
+APP-100686,2024-11-01 11:04:22.847060,UK,United Kingdom,42.0,Fully Qualified,Complete,Paid,70.5,Bank Transfer,2024-11-04 11:04:22.847060,Q4,Submitted,0,Pass,No,Team A
+APP-100687,2025-04-09 11:04:22.847060,UK,United Kingdom,36.0,FQ RESTO,Incomplete,Paid,352.5,Bank Transfer,2025-05-07 11:04:22.847060,Q2,Completed,13,Pass,Yes,Team C
+APP-100688,2024-08-28 11:04:22.847060,International,Germany,53.0,Student Registration,Complete,Paid,35.0,PayPal,2024-09-13 11:04:22.847060,Q3,Withdrawn,0,Pass,No,Team C
+APP-100689,2025-02-11 11:04:22.847060,UK,United Kingdom,25.0,BD RESTO,Complete,Paid,520.0,Bank Transfer,2025-03-12 11:04:22.847060,Q1,Completed,15,Pass,No,Team A
+APP-100690,2024-10-01 11:04:22.847060,UK,United Kingdom,46.0,FQ RESTO,Complete,Paid,117.5,PayPal,2024-10-02 11:04:22.847060,Q4,Completed,16,Pass,No,Team A
+APP-100691,2025-08-02 11:04:22.847060,UK,United Kingdom,49.0,Fully Qualified,Complete,Paid,141.0,Bank Transfer,2025-08-09 11:04:22.847060,Q3,In Review,7,Pass,No,Team B
+APP-100692,2025-01-19 11:04:22.847060,UK,United Kingdom,35.0,Student Registration,Complete,Pending,35.0,PayPal,2025-01-25 11:04:22.847060,Q1,Completed,9,Pass,No,Team B
+APP-100693,2025-11-19 11:04:22.847060,UK,United Kingdom,23.0,Student Registration,Incomplete,Paid,35.0,PayPal,2025-12-17 11:04:22.847060,Q4,Completed,6,Fail,Yes,Team B
+APP-100694,2025-06-26 11:04:22.847060,UK,United Kingdom,35.0,BD RESTO,Incomplete,Paid,260.0,Bank Transfer,2025-07-23 11:04:22.847060,Q3,Completed,13,Pass,Yes,Team C
+APP-100695,2025-09-06 11:04:22.847060,UK,United Kingdom,36.0,BD RESTO,Complete,Pending,260.0,Bank Transfer,2025-09-28 11:04:22.847060,Q3,Completed,17,Pass,No,Team A
+APP-100696,2025-08-29 11:04:22.847060,UK,United Kingdom,39.0,FQ RESTO,Incomplete,Pending,235.0,PayPal,2025-09-26 11:04:22.847060,Q3,Withdrawn,0,Pass,Yes,Team C
+APP-100697,2025-04-02 11:04:22.847060,UK,United Kingdom,54.0,Body Corporate,Complete,Pending,300.0,Bank Transfer,2025-04-20 11:04:22.847060,Q2,Completed,7,Pass,No,Team A
+APP-100698,2025-08-15 11:04:22.847060,UK,United Kingdom,49.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2025-08-30 11:04:22.847060,Q3,In Review,4,Pass,No,Team C
+APP-100699,2025-04-10 11:04:22.847060,UK,United Kingdom,58.0,Student Registration,Complete,Unpaid,0.0,PayPal,,,Withdrawn,0,Pass,No,Team B
+APP-100700,2024-08-02 11:04:22.847060,UK,United Kingdom,20.0,BD RESTO,,Paid,260.0,Bank Transfer,2024-08-10 11:04:22.847060,Q3,Completed,12,Fail,Yes,Team B
+APP-100701,2024-09-11 11:04:22.847060,UK,United Kingdom,45.0,Student Registration,Complete,Paid,35.0,PayPal,2024-09-12 11:04:22.847060,Q3,Completed,7,Pass,No,Team B
+APP-100702,2024-12-31 11:04:22.847060,UK,United Kingdom,27.0,,Complete,Paid,282.0,PayPal,2025-01-29 11:04:22.847060,Q1,Completed,3,Pass,No,Team C
+APP-100703,2025-01-04 11:04:22.847060,UK,United Kingdom,52.0,Fully Qualified,Complete,Paid,282.0,Bank Transfer,2025-01-06 11:04:22.847060,Q1,In Review,8,Pass,No,Team A
+APP-100704,2025-02-27 11:04:22.847060,UK,United Kingdom,46.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2025-03-20 11:04:22.847060,Q1,In Review,8,Pass,No,Team A
+APP-100705,2024-08-24 11:04:22.847060,International,India,32.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2024-09-22 11:04:22.847060,Q3,Completed,5,Pass,No,Team B
+APP-100706,2024-11-09 11:04:22.847060,UK,United Kingdom,50.0,Fully Qualified,Incomplete,Paid,70.5,PayPal,2024-11-17 11:04:22.847060,Q4,Completed,5,Pass,Yes,Team B
+APP-100707,2025-02-02 11:04:22.847060,International,China,24.0,Student Registration,Incomplete,Paid,35.0,Bank Transfer,2025-03-02 11:04:22.847060,Q1,In Review,9,Pass,Yes,Team B
+APP-100708,2024-11-26 11:04:22.847060,UK,United Kingdom,29.0,Student Registration,Complete,Paid,35.0,PayPal,2024-12-13 11:04:22.847060,Q4,Completed,4,Pass,No,Team B
+APP-100709,2024-08-17 11:04:22.847060,International,Nigeria,47.0,BD RESTO,Incomplete,Pending,260.0,Bank Transfer,2024-09-04 11:04:22.847060,Q3,In Review,15,Pass,Yes,Team A
+APP-100710,2024-11-09 11:04:22.847060,International,China,38.0,FQ RESTO,Complete,Unpaid,0.0,Bank Transfer,,,Completed,11,Pass,No,Team C
+APP-100711,2024-06-04 11:04:22.847060,UK,United Kingdom,48.0,Student Registration,Incomplete,Paid,35.0,Bank Transfer,2024-06-25 11:04:22.847060,Q2,In Review,6,Pass,Yes,Team C
+APP-100712,2025-07-25 11:04:22.847060,UK,United Kingdom,41.0,BD RESTO,Complete,Pending,260.0,Bank Transfer,2025-07-26 11:04:22.847060,Q3,Submitted,0,Fail,No,Team C
+APP-100713,2025-09-06 11:04:22.847060,UK,United Kingdom,37.0,Fully Qualified,Complete,Paid,141.0,Bank Transfer,2025-09-11 11:04:22.847060,Q3,Submitted,0,Pass,No,Team C
+APP-100714,2025-09-26 11:04:22.847060,UK,United Kingdom,54.0,Fully Qualified,Complete,Paid,70.5,Bank Transfer,2025-10-25 11:04:22.847060,Q4,Submitted,0,Fail,No,Team B
+APP-100715,2025-03-27 11:04:22.847060,International,Australia,21.0,FQ RESTO,Incomplete,Paid,352.5,Bank Transfer,2025-04-23 11:04:22.847060,Q2,In Review,17,Pass,Yes,Team B
+APP-100716,2024-07-05 11:04:22.847060,International,France,45.0,BD RESTO,Complete,Paid,260.0,Bank Transfer,2024-07-15 11:04:22.847060,Q3,Submitted,0,Pass,No,Team B
+APP-100717,2025-01-25 11:04:22.847060,International,USA,37.0,FQ RESTO,Complete,Unpaid,0.0,Bank Transfer,,,Submitted,0,Pass,No,Team C
+APP-100718,2025-03-24 11:04:22.847060,UK,United Kingdom,41.0,Student Registration,Complete,Paid,35.0,PayPal,2025-03-24 11:04:22.847060,Q1,Completed,9,Pass,No,Team B
+APP-100719,2025-03-18 11:04:22.847060,International,Canada,49.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2025-04-17 11:04:22.847060,Q2,Completed,5,Pass,No,Team B
+APP-100720,2025-09-09 11:04:22.847060,International,USA,58.0,FQ RESTO,Complete,Paid,235.0,Bank Transfer,2025-09-15 11:04:22.847060,Q3,In Review,17,Pass,No,Team A
+APP-100721,2024-08-13 11:04:22.847060,UK,United Kingdom,53.0,Fully Qualified,Complete,Paid,141.0,PayPal,2024-08-31 11:04:22.847060,Q3,Withdrawn,0,Pass,No,Team A
+APP-100722,2025-01-27 11:04:22.847060,UK,United Kingdom,51.0,Student Registration,Incomplete,Pending,35.0,Bank Transfer,2025-01-31 11:04:22.847060,Q1,Submitted,0,Pass,Yes,Team B
+APP-100723,2025-02-27 11:04:22.847060,International,Canada,53.0,BD RESTO,Complete,Pending,520.0,PayPal,2025-03-23 11:04:22.847060,Q1,Completed,12,Pass,No,Team A
+APP-100724,2024-12-21 11:04:22.847060,UK,United Kingdom,19.0,FQ RESTO,Complete,Paid,470.0,Bank Transfer,2025-01-16 11:04:22.847060,Q1,Completed,16,Pass,No,Team A
+APP-100725,2025-08-11 11:04:22.847060,International,Germany,32.0,FQ RESTO,Complete,Pending,235.0,Bank Transfer,2025-09-02 11:04:22.847060,Q3,In Review,13,Fail,No,Team B
+APP-100726,2024-09-27 11:04:22.847060,UK,United Kingdom,51.0,Fully Qualified,Incomplete,Paid,70.5,PayPal,2024-10-23 11:04:22.847060,Q4,In Review,6,Pass,Yes,Team B
+APP-100727,2025-01-18 11:04:22.847060,International,India,53.0,FQ RESTO,Incomplete,Unpaid,0.0,Bank Transfer,,,In Review,12,Pass,Yes,Team B
+APP-100728,2024-11-01 11:04:22.847060,UK,United Kingdom,23.0,Student Registration,Complete,Paid,35.0,PayPal,2024-11-13 11:04:22.847060,Q4,In Review,11,Pass,No,Team B
+APP-100729,2025-03-01 11:04:22.847060,UK,United Kingdom,56.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2025-03-30 11:04:22.847060,Q1,Completed,8,Pass,No,Team C
+APP-100730,2024-10-25 11:04:22.847060,UK,United Kingdom,59.0,Body Corporate,Complete,Paid,100.0,PayPal,2024-10-27 11:04:22.847060,Q4,Submitted,0,Pass,No,Team C
+APP-100731,2024-08-14 11:04:22.847060,International,Germany,29.0,Student Registration,Complete,Paid,35.0,PayPal,2024-08-23 11:04:22.847060,Q3,Submitted,0,Pass,No,Team B
+APP-100732,2024-08-02 11:04:22.847060,International,Australia,20.0,Fully Qualified,Incomplete,Paid,141.0,Bank Transfer,2024-08-07 11:04:22.847060,Q3,Submitted,0,Pass,Yes,Team A
+APP-100733,2024-11-18 11:04:22.847060,UK,United Kingdom,35.0,Body Corporate,Complete,Paid,100.0,PayPal,2024-12-06 11:04:22.847060,Q4,In Review,3,Pass,No,Team B
+APP-100734,2025-04-12 11:04:22.847060,UK,United Kingdom,57.0,Fully Qualified,Complete,Paid,211.5,Bank Transfer,2025-04-19 11:04:22.847060,Q2,Completed,3,Pass,No,Team B
+APP-100735,2025-03-24 11:04:22.847060,International,Germany,38.0,Student Registration,Complete,Pending,35.0,PayPal,2025-04-11 11:04:22.847060,Q2,Submitted,0,Pass,No,Team A
+APP-100736,2025-08-25 11:04:22.847060,UK,United Kingdom,32.0,Student Registration,Incomplete,Paid,35.0,Bank Transfer,2025-09-20 11:04:22.847060,Q3,Completed,7,Fail,Yes,Team C
+APP-100737,2024-10-07 11:04:22.847060,International,Nigeria,50.0,Fully Qualified,Complete,Paid,70.5,PayPal,2024-11-03 11:04:22.847060,Q4,In Review,6,Pass,No,Team B
+APP-100738,2025-09-24 11:04:22.847060,UK,United Kingdom,52.0,Fully Qualified,Complete,Paid,70.5,Bank Transfer,2025-10-06 11:04:22.847060,Q4,Submitted,0,Pass,No,Team B
+APP-100739,2025-04-09 11:04:22.847060,UK,United Kingdom,43.0,BD RESTO,Complete,Pending,390.0,Bank Transfer,2025-04-30 11:04:22.847060,Q2,Completed,16,Pass,No,Team C
+APP-100740,2025-07-19 11:04:22.847060,UK,United Kingdom,25.0,BD RESTO,Incomplete,Paid,260.0,PayPal,2025-08-16 11:04:22.847060,Q3,Submitted,0,Pass,Yes,Team C
+APP-100741,2025-03-07 11:04:22.847060,UK,United Kingdom,53.0,Fully Qualified,Complete,Unpaid,0.0,PayPal,,,Completed,4,Fail,No,Team A
+APP-100742,2025-10-27 11:04:22.847060,International,Germany,47.0,FQ RESTO,Complete,Pending,117.5,Bank Transfer,2025-11-13 11:04:22.847060,Q4,Completed,13,Pass,No,Team C
+APP-100743,2025-10-20 11:04:22.847060,UK,United Kingdom,40.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2025-10-30 11:04:22.847060,Q4,In Review,2,Pass,No,Team C
+APP-100744,2025-08-24 11:04:22.847060,UK,United Kingdom,59.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2025-09-05 11:04:22.847060,Q3,Submitted,0,Fail,No,Team C
+APP-100745,2024-08-23 11:04:22.847060,International,Brazil,10.0,FQ RESTO,Complete,Paid,235.0,Bank Transfer,2024-09-16 11:04:22.847060,Q3,In Review,11,Pass,No,Team A
+APP-100746,2024-07-12 11:04:22.847060,UK,United Kingdom,31.0,Fully Qualified,Complete,Paid,141.0,Bank Transfer,2024-08-04 11:04:22.847060,Q3,Submitted,0,Pass,No,Team C
+APP-100747,2025-08-18 11:04:22.847060,UK,United Kingdom,19.0,STUDENT RESTO,Complete,Pending,35.0,PayPal,2025-08-22 11:04:22.847060,Q3,Submitted,0,Pass,No,Team C
+APP-100748,2025-04-28 11:04:22.847060,International,Brazil,54.0,Fully Qualified,Complete,Unpaid,0.0,Bank Transfer,,,In Review,5,Pass,No,Team A
+APP-100749,2025-02-13 11:04:22.847060,UK,United Kingdom,22.0,BD RESTO,Complete,Paid,520.0,PayPal,2025-03-10 11:04:22.847060,Q1,In Review,10,Pass,No,Team C
+APP-100750,2024-06-28 11:04:22.847060,UK,United Kingdom,55.0,,Incomplete,Paid,141.0,PayPal,2024-07-20 11:04:22.847060,Q3,Completed,6,Fail,Yes,Team C
+APP-100751,2024-09-03 11:04:22.847060,International,Canada,,Fully Qualified,Complete,Pending,141.0,Bank Transfer,2024-09-26 11:04:22.847060,Q3,Completed,4,Fail,No,Team A
+APP-100752,2025-01-22 11:04:22.847060,UK,United Kingdom,31.0,Fully Qualified,Incomplete,Paid,282.0,Bank Transfer,2025-01-24 11:04:22.847060,Q1,Completed,7,Pass,Yes,Team B
+APP-100753,2024-06-23 11:04:22.847060,UK,United Kingdom,56.0,BD RESTO,Complete,Paid,260.0,Bank Transfer,2024-07-09 11:04:22.847060,Q3,Submitted,0,Pass,No,Team A
+APP-100754,2025-03-04 11:04:22.847060,UK,United Kingdom,42.0,Fully Qualified,Complete,Paid,282.0,Bank Transfer,2025-03-27 11:04:22.847060,Q1,Submitted,0,Pass,No,Team C
+APP-100755,2024-07-13 11:04:22.847060,International,China,37.0,STUDENT RESTO,Complete,Paid,35.0,PayPal,2024-07-24 11:04:22.847060,Q3,Completed,12,Fail,No,Team C
+APP-100756,2024-11-28 11:04:22.847060,UK,United Kingdom,19.0,Student Registration,Complete,Pending,35.0,Bank Transfer,2024-11-29 11:04:22.847060,Q4,Completed,7,Pass,No,Team C
+APP-100757,2025-09-26 11:04:22.847060,UK,United Kingdom,56.0,Student Registration,Complete,Paid,35.0,PayPal,2025-09-29 11:04:22.847060,Q3,Completed,6,Pass,No,Team A
+APP-100758,2025-11-15 11:04:22.847060,International,Brazil,23.0,Fully Qualified,Complete,Paid,-20.0,Bank Transfer,2025-11-28 11:04:22.847060,Q4,In Review,10,Pass,No,Team C
+APP-100759,2025-08-28 11:04:22.847060,International,Pakistan,34.0,Body Corporate,Complete,Unpaid,0.0,Bank Transfer,,,Completed,6,Pass,No,Team C
+APP-100760,2025-03-13 11:04:22.847060,UK,United Kingdom,42.0,FQ RESTO,Incomplete,Paid,470.0,Bank Transfer,2025-03-20 11:04:22.847060,Q1,Completed,14,Pass,Yes,Team A
+APP-100761,2024-12-04 11:04:22.847060,UK,United Kingdom,45.0,Fully Qualified,Complete,Pending,70.5,Bank Transfer,2024-12-30 11:04:22.847060,Q4,In Review,7,Pass,No,Team B
+APP-100762,2025-08-22 11:04:22.847060,UK,United Kingdom,19.0,Body Corporate,,Paid,200.0,Bank Transfer,2025-08-24 11:04:22.847060,Q3,In Review,10,Pass,Yes,Team B
+APP-100763,2025-10-18 11:04:22.847060,International,China,52.0,Fully Qualified,Complete,Paid,70.5,Bank Transfer,2025-10-28 11:04:22.847060,Q4,Completed,7,Pass,No,Team C
+APP-100764,2024-09-03 11:04:22.847060,UK,United Kingdom,54.0,Body Corporate,Complete,Unpaid,0.0,PayPal,,,In Review,11,Pass,No,Team A
+APP-100765,2025-09-26 11:04:22.847060,UK,United Kingdom,22.0,FQ RESTO,Complete,Paid,117.5,PayPal,2025-10-15 11:04:22.847060,Q4,In Review,12,Pass,No,Team C
+APP-100766,2025-05-24 11:04:22.847060,International,Germany,18.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2025-06-17 11:04:22.847060,Q2,Completed,3,Fail,No,Team A
+APP-100767,2025-07-25 11:04:22.847060,International,Germany,57.0,Fully Qualified,Complete,Paid,141.0,Bank Transfer,2025-08-13 11:04:22.847060,Q3,Completed,9,Pass,No,Team A
+APP-100768,2025-05-09 11:04:22.847060,UK,United Kingdom,29.0,STUDENT RESTO,Complete,Paid,35.0,Bank Transfer,2025-06-08 11:04:22.847060,Q2,In Review,11,Pass,No,Team B
+APP-100769,2025-04-26 11:04:22.847060,International,Pakistan,53.0,FQ RESTO,Complete,Paid,352.5,Bank Transfer,2025-05-15 11:04:22.847060,Q2,In Review,16,Pass,No,Team B
+APP-100770,2024-09-17 11:04:22.847060,UK,United Kingdom,40.0,Body Corporate,Complete,Pending,200.0,Bank Transfer,2024-09-29 11:04:22.847060,Q3,Submitted,0,Pass,No,Team A
+APP-100771,2024-11-13 11:04:22.847060,International,USA,48.0,Fully Qualified,Complete,Unpaid,,Bank Transfer,,,Completed,6,Pass,No,Team C
+APP-100772,2025-05-05 11:04:22.847060,UK,,28.0,Student Registration,Incomplete,Unpaid,0.0,Bank Transfer,,,In Review,5,Fail,Yes,Team B
+APP-100773,2025-07-28 11:04:22.847060,UK,United Kingdom,27.0,Fully Qualified,Incomplete,Paid,141.0,Bank Transfer,2025-08-21 11:04:22.847060,Q3,Withdrawn,0,Pass,Yes,Team C
+APP-100774,2025-10-22 11:04:22.847060,International,Canada,20.0,FQ RESTO,Complete,Paid,117.5,Bank Transfer,2025-11-01 11:04:22.847060,Q4,In Review,12,Pass,No,Team B
+APP-100775,2025-03-24 11:04:22.847060,UK,United Kingdom,31.0,Body Corporate,Complete,Paid,400.0,Bank Transfer,2025-03-24 11:04:22.847060,Q1,In Review,2,Pass,No,Team B
+APP-100776,2025-07-17 11:04:22.847060,UK,United Kingdom,33.0,Student Registration,Complete,Pending,35.0,PayPal,2025-08-06 11:04:22.847060,Q3,Completed,3,Fail,No,Team C
+APP-100777,2024-07-09 11:04:22.847060,International,Pakistan,27.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2024-07-17 11:04:22.847060,Q3,Completed,4,Pass,No,Team B
+APP-100778,2025-09-10 11:04:22.847060,International,Brazil,46.0,Student Registration,Incomplete,Paid,35.0,Bank Transfer,2025-10-05 11:04:22.847060,Q4,In Review,9,Pass,Yes,Team B
+APP-100779,2024-08-31 11:04:22.847060,UK,United Kingdom,27.0,Student Registration,Complete,Pending,35.0,Bank Transfer,2024-09-14 11:04:22.847060,Q3,In Review,2,Pass,No,Team C
+APP-100780,2025-04-20 11:04:22.847060,International,India,29.0,Student Registration,Complete,Paid,35.0,PayPal,2025-05-05 11:04:22.847060,Q2,Withdrawn,0,Pass,No,Team B
+APP-100781,2025-02-15 11:04:22.847060,UK,United Kingdom,47.0,Fully Qualified,Complete,Paid,282.0,PayPal,2025-02-22 11:04:22.847060,Q1,Submitted,0,Pass,No,Team B
+APP-100782,2025-04-29 11:04:22.847060,UK,United Kingdom,58.0,Student Registration,Complete,Unpaid,0.0,PayPal,,,Completed,9,,No,Team B
+APP-100783,2024-09-28 11:04:22.847060,UK,United Kingdom,18.0,Student Registration,Complete,Unpaid,0.0,Bank Transfer,,,Submitted,0,Pass,No,Team C
+APP-100784,2025-07-20 11:04:22.847060,UK,United Kingdom,22.0,Fully Qualified,Incomplete,Paid,141.0,Bank Transfer,2025-07-31 11:04:22.847060,Q3,Completed,9,Pass,Yes,Team A
+APP-100785,2025-11-10 11:04:22.847060,International,India,37.0,Student Registration,Complete,Paid,35.0,PayPal,2025-11-27 11:04:22.847060,Q4,Completed,9,Pass,No,Team C
+APP-100786,2024-06-03 11:04:22.847060,UK,United Kingdom,25.0,Student Registration,Complete,Unpaid,0.0,Bank Transfer,,,In Review,10,Fail,No,Team A
+APP-100787,2025-09-18 11:04:22.847060,UK,United Kingdom,29.0,Fully Qualified,Incomplete,Paid,70.5,Bank Transfer,2025-10-18 11:04:22.847060,Q4,Completed,3,Pass,Yes,Team B
+APP-100788,2025-07-30 11:04:22.847060,UK,United Kingdom,18.0,Student Registration,Complete,Paid,35.0,PayPal,2025-08-11 11:04:22.847060,Q3,Submitted,0,Pass,No,Team A
+APP-100789,2024-07-27 11:04:22.847060,International,USA,37.0,Fully Qualified,Complete,Paid,141.0,Bank Transfer,2024-08-09 11:04:22.847060,Q3,In Review,9,Pass,No,Team C
+APP-100790,2024-12-11 11:04:22.847060,UK,United Kingdom,45.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2024-12-16 11:04:22.847060,Q4,Completed,4,Pass,No,Team C
+APP-100791,2025-11-14 11:04:22.847060,UK,United Kingdom,54.0,BD RESTO,Complete,Paid,130.0,Bank Transfer,2025-12-05 11:04:22.847060,Q4,In Review,15,Pass,No,Team B
+APP-100792,2025-06-07 11:04:22.847060,UK,United Kingdom,54.0,STUDENT RESTO,Incomplete,Paid,35.0,Bank Transfer,2025-06-25 11:04:22.847060,Q2,Completed,11,Pass,Yes,Team A
+APP-100793,2025-10-25 11:04:22.847060,UK,United Kingdom,29.0,BD RESTO,Complete,Paid,130.0,Bank Transfer,2025-11-15 11:04:22.847060,Q4,Submitted,0,Fail,No,Team B
+APP-100794,2025-08-28 11:04:22.847060,UK,United Kingdom,54.0,Fully Qualified,Incomplete,Paid,141.0,PayPal,2025-09-09 11:04:22.847060,Q3,Submitted,0,Pass,Yes,Team B
+APP-100795,2024-07-24 11:04:22.847060,International,Pakistan,45.0,FQ RESTO,Complete,Unpaid,0.0,PayPal,,,Submitted,0,Pass,No,Team C
+APP-100796,2024-12-27 11:04:22.847060,International,India,32.0,Body Corporate,Incomplete,Pending,100.0,Bank Transfer,2024-12-29 11:04:22.847060,Q4,Submitted,0,Pass,Yes,Team A
+APP-100797,2025-03-02 11:04:22.847060,UK,United Kingdom,23.0,Student Registration,Complete,Pending,35.0,PayPal,2025-03-26 11:04:22.847060,Q1,In Review,6,Pass,No,Team A
+APP-100798,2024-10-14 11:04:22.847060,International,Canada,37.0,Fully Qualified,Incomplete,Paid,70.5,Bank Transfer,2024-11-02 11:04:22.847060,Q4,Completed,5,Pass,Yes,Team A
+APP-100799,2025-03-23 11:04:22.847060,International,France,31.0,FQ RESTO,Complete,Paid,352.5,Bank Transfer,2025-04-01 11:04:22.847060,Q2,Completed,17,Pass,No,Team A
+APP-100696,2025-08-29 11:04:22.847060,UK,United Kingdom,39.0,FQ RESTO,Incomplete,Pending,235.0,PayPal,2025-09-26 11:04:22.847060,Q3,Withdrawn,0,Pass,Yes,Team C
+APP-100667,2025-10-17 11:04:22.847060,UK,United Kingdom,37.0,Body Corporate,Complete,Paid,100.0,PayPal,2025-10-29 11:04:22.847060,Q4,Completed,7,Pass,No,Team B
+APP-100063,2024-11-16 11:04:22.847060,UK,United Kingdom,40.0,Student Registration,Incomplete,Paid,35.0,PayPal,2024-11-16 11:04:22.847060,Q4,Completed,8,Pass,Yes,Team C
+APP-100533,2025-02-15 11:04:22.847060,UK,United Kingdom,34.0,Body Corporate,Complete,Paid,400.0,Bank Transfer,2025-02-25 11:04:22.847060,Q1,Completed,7,Pass,No,Team B
+APP-100066,2025-03-05 11:04:22.847060,UK,United Kingdom,47.0,Student Registration,Complete,Paid,35.0,PayPal,2025-03-12 11:04:22.847060,Q1,Completed,7,Pass,No,Team B
+APP-100621,2025-10-02 11:04:22.847060,UK,United Kingdom,34.0,Body Corporate,Complete,Paid,9999.0,PayPal,2025-11-01 11:04:22.847060,Q4,Completed,6,Pass,No,Team C
+APP-100346,2025-01-15 11:04:22.847060,UK,United Kingdom,21.0,STUDENT RESTO,Complete,Paid,35.0,Bank Transfer,2025-01-28 11:04:22.847060,Q1,In Review,17,Pass,No,Team C
+APP-100490,2024-12-30 11:04:22.847060,UK,United Kingdom,49.0,Body Corporate,Complete,Pending,400.0,PayPal,2025-01-22 11:04:22.847060,Q1,Submitted,0,Pass,No,Team C
+APP-100760,2025-03-13 11:04:22.847060,UK,United Kingdom,42.0,FQ RESTO,Incomplete,Paid,470.0,Bank Transfer,2025-03-20 11:04:22.847060,Q1,Completed,16,Pass,Yes,Team A
+APP-100456,2025-10-31 11:04:22.847060,UK,United Kingdom,22.0,FQ RESTO,Complete,Pending,117.5,PayPal,2025-11-03 11:04:22.847060,Q4,In Review,16,Pass,No,Team C
+APP-100710,2024-11-09 11:04:22.847060,International,China,38.0,FQ RESTO,Complete,Unpaid,0.0,Bank Transfer,,,Completed,10,Pass,No,Team C
+APP-100470,2024-08-20 11:04:22.847060,UK,United Kingdom,46.0,Fully Qualified,Complete,Pending,141.0,Bank Transfer,2024-08-27 11:04:22.847060,Q3,Completed,3,Pass,No,Team C
+APP-100029,2024-09-14 11:04:22.847060,UK,United Kingdom,43.0,BD RESTO,Complete,Unpaid,0.0,PayPal,,,Submitted,0,Pass,No,Team C
+APP-100305,2025-05-09 11:04:22.847060,International,China,54.0,Student Registration,Incomplete,Paid,35.0,Bank Transfer,2025-05-30 11:04:22.847060,Q2,Completed,7,Pass,Yes,Team B
+APP-100454,2025-04-22 11:04:22.847060,UK,United Kingdom,55.0,Fully Qualified,Complete,Unpaid,0.0,Bank Transfer,,,Completed,9,Pass,No,Team C
+APP-100494,2025-06-26 11:04:22.847060,UK,United Kingdom,47.0,Fully Qualified,Complete,Paid,141.0,PayPal,2025-07-06 11:04:22.847060,Q3,Completed,7,Pass,No,Team A
+APP-100571,2025-05-23 11:04:22.847060,International,Germany,33.0,Student Registration,Complete,Paid,35.0,PayPal,2025-06-19 11:04:22.847060,Q2,In Review,8,Fail,No,
+APP-100719,2025-03-18 11:04:22.847060,International,Canada,49.0,Student Registration,Complete,Paid,35.0,Bank Transfer,2025-04-17 11:04:22.847060,Q2,Completed,4,Pass,No,Team B
+APP-100540,2024-08-11 11:04:22.847060,International,China,46.0,Student Registration,Complete,Paid,35.0,PayPal,2024-09-03 11:04:22.847060,Q3,Completed,3,Pass,No,Team A
+APP-100232,2024-07-31 11:04:22.847060,UK,United Kingdom,26.0,STUDENT RESTO,Complete,Paid,35.0,Bank Transfer,2024-08-28 11:04:22.847060,Q3,In Review,16,Pass,No,Team B
+APP-100747,2025-08-18 11:04:22.847060,UK,United Kingdom,19.0,STUDENT RESTO,Complete,Pending,35.0,PayPal,2025-08-22 11:04:22.847060,Q3,Submitted,0,Pass,No,Team C
+APP-100267,2025-09-14 11:04:22.847060,International,India,42.0,Body Corporate,Complete,Pending,100.0,Bank Transfer,2025-10-01 11:04:22.847060,Q4,Submitted,0,Pass,No,Team B
+APP-100386,2025-08-17 11:04:22.847060,UK,United Kingdom,34.0,Fully Qualified,Complete,Paid,141.0,Bank Transfer,2025-09-13 11:04:22.847060,Q3,Submitted,0,Pass,No,Team C
+APP-100253,2025-11-19 11:04:22.847060,UK,United Kingdom,33.0,Student Registration,Complete,Unpaid,0.0,Bank Transfer,,,Completed,3,Pass,No,Team A
+APP-100333,2024-11-30 11:04:22.847060,UK,United Kingdom,46.0,Body Corporate,Complete,Unpaid,0.0,PayPal,,,Completed,5,Pass,No,Team C
