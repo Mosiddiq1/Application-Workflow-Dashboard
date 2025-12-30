@@ -106,8 +106,12 @@ This project demonstrates the ability to convert raw operational data into actio
 ## 📁 Repository Structure
 
 - `/data` – Synthetic dataset (CSV)  
-- `/powerbi` – ![image alt](https://github.com/Mosiddiq1/Application-Workflow-Dashboard/blob/54048d525da7e47c2265712a769a3470d2e80358/Application%20Breakdown%20.png)
-- ![image alt](
+- `/powerbi` –![image alt](https://github.com/Mosiddiq1/Application-Workflow-Dashboard/blob/33b5b6fee0bb94a04dd05f8146e405b630175c36/KPI%20Overview%20.png)
+
+- ![image alt](https://github.com/Mosiddiq1/Application-Workflow-Dashboard/blob/54048d525da7e47c2265712a769a3470d2e80358/Application%20Breakdown%20.png)
+
+- 
+- 
 - `README.md` – Project documentation  
 
 ---
